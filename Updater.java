@@ -5,8 +5,7 @@ import java.util.Scanner;
 import java.util.Set;
 
 public class Updater {
-    public static void main(String[] args) {
-        Map<String, Integer> values = new HashMap<>(); // name from enum, total points for week
+    public static Map<String,Integer> valueMaker (Map<String, Integer> values) {
         Scanner scanner = new Scanner(System.in);
         for (Artists artists: Artists.values()) {
             Set<Integer> points = new HashSet<>();
@@ -22,9 +21,18 @@ public class Updater {
                 total += point;
             }
         
-            values.put(artists.toString(), total);
+            values.put(artists.toString(), total + values.get(artists.toString()));
         }
         System.out.println(values);
         scanner.close();
+        return values;
+    }
+
+    public static void main(String[] args) {
+        Map<String, Integer> values = new HashMap<>();
+        for (Artists artists: Artists.values()) {
+            values.put(artists.toString(), 0);
+        }
+        valueMaker(values);
     }
 }
