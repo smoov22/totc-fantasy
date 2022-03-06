@@ -33,6 +33,6 @@ public class Updater {
         for (Artists artists: Artists.values()) {
             values.put(artists.toString(), 0);
         }
-        valueMaker(values);
+        values = valueMaker(values);
     }
 }
