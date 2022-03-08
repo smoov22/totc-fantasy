@@ -68,6 +68,7 @@ public enum Artists {
     BABYKEEM ("Baby Keem", 1),
     IMAGINEDRAGONS ("Imagine Dragons", 1),
     WILLOW ("Willow", 1),
+    JBALVIN("J Balvin", 1),
     CHARLIXCX ("Charli XCX", 1);
 
 
