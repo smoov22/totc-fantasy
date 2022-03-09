@@ -1,3 +1,9 @@
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+import java.nio.Buffer;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
@@ -5,7 +11,27 @@ import java.util.Scanner;
 import java.util.Set;
 
 public class Updater {
-    public static Map<String,Integer> valueMaker (Map<String, Integer> values) {
+    public static Map<String, Integer> valueFromFile(Map<String, Integer> values, String filename) throws FileNotFoundException, IOException{
+        FileReader fileReader = new FileReader(new File(filename));
+        BufferedReader reader = new BufferedReader(fileReader);
+        String line = reader.readLine();
+        while (line != null) {
+            String[] linepieces = line.split(", ");
+            int points = 101 - Integer.parseInt(linepieces[0]);
+            String artist = linepieces[2];
+            for (Artists artists: Artists.values()) {
+                if (artist.contains(artists.toName())) {
+                    values.put(artists.toString(), points + values.get(artists.toString()));
+                }
+            }
+            line = reader.readLine();
+        }
+        reader.close();
+        fileReader.close();
+        return values;
+    }
+
+    public static Map<String,Integer> manualvalueMaker (Map<String, Integer> values) {
         Scanner scanner = new Scanner(System.in);
         for (Artists artists: Artists.values()) {
             Set<Integer> points = new HashSet<>();
@@ -51,8 +77,12 @@ public class Updater {
         for (Players player: Players.values()) {
             players.put(player.toString(), 0);
         }
-        values = valueMaker(values);
-
+        // values = valueMaker(values);
+        try {
+        values = valueFromFile(values, "bu.txt");
+        } catch (IOException io) {
+            System.out.println("IO exception");
+        }
         players = playerPut(values, players, Players.IVY, Artists.LILDURK, Artists.FUTURE, Artists.CARDIB, Artists.MORGANWALLEN, Artists.POSTMALONE);
         players = playerPut(values, players, Players.FANSTAR, Artists.POSTMALONE, Artists.WEEKND, Artists.MORGANWALLEN, Artists.ADELE, Artists.JUSTINBIEBER);
         players = playerPut(values, players, Players.LUIS, Artists.LILNASX, Artists.KENDRICKLAMAR, Artists.MARIAHCAREY, Artists.WEEKND, Artists.MEGAN);
