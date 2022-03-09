@@ -3,7 +3,6 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
-import java.nio.Buffer;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
@@ -16,12 +15,23 @@ public class Updater {
         BufferedReader reader = new BufferedReader(fileReader);
         String line = reader.readLine();
         while (line != null) {
-            String[] linepieces = line.split(", ");
+            String[] linepieces = line.split("; ");
+            int value = Integer.parseInt(linepieces[0]);
             int points = 101 - Integer.parseInt(linepieces[0]);
+            if (value < 11) {
+                points += 10;
+            }
+            else if (value < 21) {
+                points += 5;
+            }
+            else if (value < 41) {
+                points += 2;
+            }
             String artist = linepieces[2];
             for (Artists artists: Artists.values()) {
-                if (artist.contains(artists.toName())) {
+                if (artist.toLowerCase().contains(artists.toName().toLowerCase())) {
                     values.put(artists.toString(), points + values.get(artists.toString()));
+                    // System.out.println(artist + " " + linepieces[1] + " " + points + " for " + artists);
                 }
             }
             line = reader.readLine();
@@ -79,10 +89,11 @@ public class Updater {
         }
         // values = valueMaker(values);
         try {
-        values = valueFromFile(values, "bu.txt");
+        values = valueFromFile(values, "3-8.txt");
         } catch (IOException io) {
             System.out.println("IO exception");
         }
+        // System.out.println(values);
         players = playerPut(values, players, Players.IVY, Artists.LILDURK, Artists.FUTURE, Artists.CARDIB, Artists.MORGANWALLEN, Artists.POSTMALONE);
         players = playerPut(values, players, Players.FANSTAR, Artists.POSTMALONE, Artists.WEEKND, Artists.MORGANWALLEN, Artists.ADELE, Artists.JUSTINBIEBER);
         players = playerPut(values, players, Players.LUIS, Artists.LILNASX, Artists.KENDRICKLAMAR, Artists.MARIAHCAREY, Artists.WEEKND, Artists.MEGAN);

@@ -11,7 +11,7 @@ def format (filename):
                 i = 0
                 string += "\n"
             if i == 0 or i == 1:
-                string += row + ", "
+                string += row + "; "
             if i == 2:
                 string += row
             i += 1
@@ -26,7 +26,7 @@ def remove_first_three_chars (filename):
     return string
 
 def main():
-    output=format("bubblingunder.txt")
+    output=format("run2.txt")
     print(output)
 
 
