@@ -122,7 +122,9 @@ public class Updater {
         players = playerPut(values, players, Players.BIGG0320, Artists.LILDURK, Artists.KIDLAROI, Artists.SZA, Artists.ERICCHURCH, Artists.WEEKND);
         players = playerPut(values, players, Players.CAMERONCARDINAL, Artists.LILBABY, Artists.LILDURK, Artists.OLIVIARODRIGO, Artists.MEGAN, Artists.SZA);
         players = playerPut(values, players, Players.KEATON, Artists.ADELE, Artists.TAYLORSWIFT, Artists.LILNASX, Artists.DOJACAT, Artists.THEANXIETY);
-        System.out.println(players);
+        for (String player: players.keySet()) {
+            System.out.println(player + " earned " + players.get(player) + " points this week.");
+        }
         
         
     }
