@@ -9,12 +9,20 @@ import java.util.Map;
 import java.util.Scanner;
 import java.util.Set;
 
+import org.python.util.PythonInterpreter;
+
 public class Updater {
     public static Map<String, Integer> valueFromFile(Map<String, Integer> values, String filename) throws FileNotFoundException, IOException{
         FileReader fileReader = new FileReader(new File(filename));
         BufferedReader reader = new BufferedReader(fileReader);
         String line = reader.readLine();
         while (line != null) {
+            if (line.contains("Dirty data!")) {
+                System.out.println("Dirty data!");
+                reader.close();
+                fileReader.close();
+                return null;
+            }
             String[] linepieces = line.split("; ");
             int value = Integer.parseInt(linepieces[0]);
             int points = 101 - Integer.parseInt(linepieces[0]);
@@ -89,7 +97,10 @@ public class Updater {
         }
         // values = valueMaker(values);
         try {
-        values = valueFromFile(values, "3-8.txt");
+        PythonInterpreter interpreter = new PythonInterpreter();
+        interpreter.execfile("year_end.py");
+        interpreter.close();
+        values = valueFromFile(values, "temp.txt");
         } catch (IOException io) {
             System.out.println("IO exception");
         }

@@ -1,12 +1,12 @@
-from typing import Text
-
-
 def format (filename):
     with open(filename) as result:
         string=""
         i=0
         for row in result:
             row=row.strip()
+            if i == 0:
+                if string.isnumeric == False:
+                    return "Dirty data!"
             if i == 4:
                 i = 0
                 string += "\n"
@@ -27,7 +27,10 @@ def remove_first_three_chars (filename):
 
 def main():
     output=format("run2.txt")
-    print(output)
+    file = open("temp.txt", "w")
+    file.write(output)
+
+
 
 
 
