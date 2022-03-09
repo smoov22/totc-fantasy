@@ -1,7 +1,9 @@
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.HashSet;
@@ -83,19 +85,32 @@ public class Updater {
         players.put(player.toString(), pointer);
         pointer = players.get(player.toString()) + (values.get(artist5.toString()) / artist5.getMultiplier());
         players.put(player.toString(), pointer);
+        player.setPoints(players.get(player.toString()));
         return players;
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException{
         Map<String, Integer> values = new HashMap<>();
         for (Artists artists: Artists.values()) {
             values.put(artists.toString(), 0);
         }
+        FileReader fileReader = new FileReader("export.txt");
+        BufferedReader bufferedReader = new BufferedReader(fileReader);
         Map<String, Integer> players = new HashMap<>();
-        for (Players player: Players.values()) {
-            players.put(player.toString(), 0);
+        bufferedReader.readLine();
+        String line = bufferedReader.readLine();
+        while (line != null) {
+            String[] parts = line.split(": ");
+            players.put(parts[0], Integer.parseInt(parts[1]));
+            line=bufferedReader.readLine();
         }
+        // for (Players player: Players.values()) {
+        //     players.put(player.toString(), 0);
+        // }
         // values = valueMaker(values);
+        bufferedReader.close();
+        fileReader.close();
+        System.out.println(players);
         try {
         PythonInterpreter interpreter = new PythonInterpreter();
         interpreter.execfile("year_end.py");
@@ -136,7 +151,18 @@ public class Updater {
         for (String player: players.keySet()) {
             System.out.println(player + " earned " + players.get(player) + " points this week.");
         }
-        
-        
+        System.out.println("Total Points:");
+        for (Players player: Players.values()) {
+            System.out.println(player.toString() + ": " + player.getPoints());
+        }
+        String stringer = "Total points:\n";
+        for (Players player: Players.values()) {
+            stringer += player.toString() + ": " + player.getPoints() + "\n";
+        }
+        FileWriter fileWriter = new FileWriter(new File("export.txt"));
+        BufferedWriter writer = new BufferedWriter(fileWriter);
+        writer.write(stringer);
+        writer.close();
+        fileWriter.close();
     }
 }

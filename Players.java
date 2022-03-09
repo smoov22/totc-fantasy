@@ -27,4 +27,22 @@ public enum Players {
     KEATON,
     CAMERONCARDINAL,
     BIGG0320;
+
+    public int points;
+
+    private Players() {
+        this.points = 0;
+    }
+
+    private Players(int points) {
+        this.points = points;
+    }
+
+    public void setPoints(int points) {
+        this.points = points;
+    }
+
+    public int getPoints() {
+        return points;
+    }
 }
