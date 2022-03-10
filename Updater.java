@@ -97,13 +97,24 @@ public class Updater {
         FileReader fileReader = new FileReader("export.txt");
         BufferedReader bufferedReader = new BufferedReader(fileReader);
         Map<String, Integer> players = new HashMap<>();
-        bufferedReader.readLine();
-        String line = bufferedReader.readLine();
+        String firstline = bufferedReader.readLine();
+        if (firstline == null) {
+            for (Players player: Players.values()) {
+                players.put(player.toString(), 0);
+            }
+        }
+        else if (firstline.isEmpty()) {
+            for (Players player: Players.values()) {
+                players.put(player.toString(), 0);
+            }
+        }
+        else {String line = bufferedReader.readLine();
         while (line != null) {
             String[] parts = line.split(": ");
             players.put(parts[0], Integer.parseInt(parts[1]));
             line=bufferedReader.readLine();
         }
+    }
         // for (Players player: Players.values()) {
         //     players.put(player.toString(), 0);
         // }
