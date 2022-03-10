@@ -1,5 +1,0 @@
-plug in values for where an artist placed on the hot 100 as a set of integers, 
-add up 100-each placement, and then add them to the map for each player based on their custom formula
-then print the map
-
-later have a means to send the map to a text file and get it out of a text file so it can consistently be updated week over week

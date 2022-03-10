@@ -75,6 +75,7 @@ public class Updater {
     }
 
     private static Map<String, Integer> playerPut(Map<String, Integer> values, Map<String, Integer> players, Players player, Artists artist1, Artists artist2, Artists artist3, Artists artist4, Artists artist5) {
+        int total = players.get(player.toString());
         Integer pointer = players.get(player.toString()) + (values.get(artist1.toString()) / artist1.getMultiplier());
         players.put(player.toString(), pointer);
         pointer = players.get(player.toString()) + (values.get(artist2.toString()) / artist2.getMultiplier());
@@ -86,6 +87,8 @@ public class Updater {
         pointer = players.get(player.toString()) + (values.get(artist5.toString()) / artist5.getMultiplier());
         players.put(player.toString(), pointer);
         player.setPoints(players.get(player.toString()));
+        int newer = player.points - total;
+        System.out.println(player.toString() + " gained " + newer + " points this week.");
         return players;
     }
 
@@ -159,9 +162,6 @@ public class Updater {
         players = playerPut(values, players, Players.BIGG0320, Artists.LILDURK, Artists.KIDLAROI, Artists.SZA, Artists.ERICCHURCH, Artists.WEEKND);
         players = playerPut(values, players, Players.CAMERONCARDINAL, Artists.LILBABY, Artists.LILDURK, Artists.OLIVIARODRIGO, Artists.MEGAN, Artists.SZA);
         players = playerPut(values, players, Players.KEATON, Artists.ADELE, Artists.TAYLORSWIFT, Artists.LILNASX, Artists.DOJACAT, Artists.THEANXIETY);
-        for (String player: players.keySet()) {
-            System.out.println(player + " earned " + players.get(player) + " points this week.");
-        }
         System.out.println("Total Points:");
         for (Players player: Players.values()) {
             System.out.println(player.toString() + ": " + player.getPoints());
