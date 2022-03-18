@@ -157,7 +157,7 @@ public class Updater {
         players = playerPut(values, players, Players.MONA, Artists.JID, Artists.SAWEETIE, Artists.JASONALDEAN, Artists.BTS, Artists.KIDCUDI);
         players = playerPut(values, players, Players.SCRUBS, Artists.EDSHEERAN, Artists.KODAKBLACK, Artists.KENDRICKLAMAR, Artists.LILDURK, Artists.GLASSANIMALS);
         players = playerPut(values, players, Players.GONZA, Artists.POLOG, Artists.GLASSANIMALS, Artists.KENDRICKLAMAR, Artists.SILKSONIC, Artists.ARILENNOX);
-        players = playerPut(values, players, Players.REALHOTBOYSHIT, Artists.WEEKND, Artists.TAYLORSWIFT, Artists.ADELE, Artists.ARIANAGRANDE, Artists.ANDYWILLIAMS);
+        players = playerPut(values, players, Players.BACON, Artists.WEEKND, Artists.TAYLORSWIFT, Artists.ADELE, Artists.ARIANAGRANDE, Artists.ANDYWILLIAMS);
         players = playerPut(values, players, Players.SMOOV22, Artists.LUKECOMBS, Artists.KANEBROWN, Artists.STEPHANIE, Artists.LILDURK, Artists.WEEKND);
         players = playerPut(values, players, Players.BIGG0320, Artists.LILDURK, Artists.KIDLAROI, Artists.SZA, Artists.ERICCHURCH, Artists.WEEKND);
         players = playerPut(values, players, Players.CAMERONCARDINAL, Artists.LILBABY, Artists.LILDURK, Artists.OLIVIARODRIGO, Artists.MEGAN, Artists.SZA);

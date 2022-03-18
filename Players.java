@@ -22,11 +22,11 @@ public enum Players {
     MONA,
     SCRUBS,
     GONZA,
-    REALHOTBOYSHIT,
     SMOOV22,
     KEATON,
     CAMERONCARDINAL,
-    BIGG0320;
+    BIGG0320,
+    BACON;
 
     public int points;
 
