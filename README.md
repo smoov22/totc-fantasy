@@ -9,4 +9,4 @@ Each week the Billboard Hot 100 is released, a Python script (labeled year_end.p
 I may add functionality in the future, in essence allowing anyone to act as somewhat a "league manager" without manually importing every artist and player with multipliers. For now, the current way the league is run can be seen in the spreadsheet. 
 
 
-NOTE: Songs and artists in the /data folder and temp.txt may contain explicit language.
+NOTE: Songs and artists in the /hot100 folder and temp.txt may contain explicit language.
