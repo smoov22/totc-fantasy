@@ -26,7 +26,7 @@ def remove_first_three_chars (filename):
     return string
 
 def main():
-    output=format("hot100/3-26.txt")
+    output=format("hot100/4-2.txt")
     file = open("temp.txt", "w")
     file.write(output)
 

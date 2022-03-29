@@ -2,99 +2,99 @@
 2; Stay; The Kid LAROI & Justin Bieber
 3; Super Gremlin; Kodak Black
 4; abcdefu; GAYLE
-5; We Don't Talk About Bruno; Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto Cast
-6; Ghost; Justin Bieber
-7; Easy On Me; Adele
-8; Enemy; Imagine Dragons X JID
-9; Thats What I Want; Lil Nas X
-10; Bad Habits; Ed Sheeran
-11; Shivers; Ed Sheeran
-12; Woman; Doja Cat
-13; Cold Heart (PNAU Remix); Elton John & Dua Lipa
-14; Big Energy; Latto
-15; Sweetest Pie; Megan Thee Stallion & Dua Lipa
-16; Need To Know; Doja Cat
+5; Ghost; Justin Bieber
+6; We Don't Talk About Bruno; Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto Cast
+7; Enemy; Imagine Dragons X JID
+8; Thats What I Want; Lil Nas X
+9; Woman; Doja Cat
+10; Easy On Me; Adele
+11; Big Energy; Latto
+12; Bad Habits; Ed Sheeran
+13; Shivers; Ed Sheeran
+14; Cold Heart (PNAU Remix); Elton John & Dua Lipa
+15; Need To Know; Doja Cat
+16; Levitating; Dua Lipa
 17; Save Your Tears; The Weeknd & Ariana Grande
-18; Ahhh Ha; Lil Durk
-19; Levitating; Dua Lipa
-20; Pushin P; Gunna & Future Featuring Young Thug
+18; 'Til You Can't; Cody Johnson
+19; Pushin P; Gunna & Future Featuring Young Thug
+20; One Right Now; Post Malone & The Weeknd
 21; Industry Baby; Lil Nas X & Jack Harlow
-22; 'Til You Can't; Cody Johnson
-23; One Right Now; Post Malone & The Weeknd
-24; What Happened To Virgil; Lil Durk Featuring Gunna
-25; I Hate U; SZA
-26; Petty Too; Lil Durk Featuring Future
-27; Hrs And Hrs; Muni Long
-28; MAMIII; Becky G X Karol G
-29; Surface Pressure; Jessica Darrow
-30; No Interviews; Lil Durk
+22; What Happened To Virgil; Lil Durk Featuring Gunna
+23; I Hate U; SZA
+24; Hrs And Hrs; Muni Long
+25; Sweetest Pie; Megan Thee Stallion & Dua Lipa
+26; MAMIII; Becky G X Karol G
+27; Good 4 U; Olivia Rodrigo
+28; Ahhh Ha; Lil Durk
+29; Light Switch; Charlie Puth
+30; Doin' This; Luke Combs
 31; You Right; Doja Cat & The Weeknd
-32; Good 4 U; Olivia Rodrigo
-33; Light Switch; Charlie Puth
-34; Golden Child; Lil Durk
-35; Buy Dirt; Jordan Davis Featuring Luke Bryan
+32; Fingers Crossed; Lauren Spencer-Smith
+33; Buy Dirt; Jordan Davis Featuring Luke Bryan
+34; Bam Bam; Camila Cabello Featuring Ed Sheeran
+35; Surface Pressure; Jessica Darrow
 36; Fancy Like; Walker Hayes
-37; Thinking With My Dick; Kevin Gates Featuring Juicy J
-38; Fingers Crossed; Lauren Spencer-Smith
-39; Bam Bam; Camila Cabello Featuring Ed Sheeran
-40; Handsomer; Russ Featuring Ktlyn
-41; Love Nwantiti (Ah Ah Ah); CKay
-42; Beers On Me; Dierks Bentley, Breland & HARDY
-43; Broadway Girls; Lil Durk Featuring Morgan Wallen
-44; Sand In My Boots; Morgan Wallen
-45; Doin' This; Luke Combs
-46; Something In The Way; Nirvana
-47; Knife Talk; Drake Featuring 21 Savage & Project Pat
-48; Barbarian; Lil Durk
-49; Boyfriend; Dove Cameron
-50; To Be Loved By You; Parker McCollum
-51; Never Say Never; Cole Swindell / Lainey Wilson
-52; AA; Walker Hayes
-53; Shootout @ My Crib; Lil Durk
-54; Numb Little Bug; Em Beihold
-55; Started From; Lil Durk
-56; Drunk (And I Don't Wanna Go Home); Elle King & Miranda Lambert
-57; The Family Madrigal; Stephanie Beatriz, Olga Merediz & Encanto Cast
-58; Headtaps; Lil Durk
-59; She's All I Wanna Be; Tate McRae
-60; Smoking & Thinking; Lil Durk
-61; 23; Sam Hunt
-62; Slow Down Summer; Thomas Rhett
-63; Peru; Fireboy DML & Ed Sheeran
-64; The Motto; Tiesto & Ava Max
-65; Grow Up/Keep It On Speaker; Lil Durk
-66; Do We Have A Problem?; Nicki Minaj X Lil Baby
-67; What Else Can I Do?; Diane Guerrero & Stephanie Beatriz
-68; Nail Tech; Jack Harlow
-69; Blocklist; Lil Durk
-70; Me Or Sum; Nardo Wick, Lil Baby & Future
-71; Heart On Fire; Eric Church
-72; Dos Oruguitas; Sebastian Yatra
-73; Difference Is; Lil Durk Featuring Summer Walker
-74; Circles Around This Town; Maren Morris
-75; Freaky Deaky; Tyga X Doja Cat
-76; If I Was A Cowboy; Miranda Lambert
-77; Beautiful Lies; Yung Bleu & Kehlani
-78; Flower Shops; ERNEST Featuring Morgan Wallen
-79; Sacrifice; The Weeknd
-80; Smokin Out The Window; Silk Sonic (Bruno Mars & Anderson .Paak)
-81; To The Moon!; JNR CHOI & Sam Tompkins
-82; P Power; Gunna Featuring Drake
-83; High; The Chainsmokers
-84; Pressure; Ari Lennox
-85; Federal Nightmares; Lil Durk
-86; Rumors; Gucci Mane Featuring Lil Durk
-87; Never Wanted To Be That Girl; Carly Pearce & Ashley McBryde
-88; Half Of My Hometown; Kelsea Ballerini Featuring Kenny Chesney
-89; I Love You So; The Walters
-90; Banking On Me; Gunna
-91; Give Heaven Some Hell; HARDY
-92; I'm Tired; Labrinth & Zendaya
-93; Bones; Imagine Dragons
-94; Rocking A Cardigan In Atlanta; Lil Shordie Scott
-95; Pissed Me Off; Lil Durk
-96; By Your Side; Rod Wave
-97; Waiting On A Miracle; Stephanie Beatriz
-98; I Hate YoungBoy; YoungBoy Never Broke Again
-99; City Of Gods; Fivio Foreign, Kanye West & Alicia Keys
-100; Closer; Saweetie Featuring H.E.R.
+37; Blick Blick!; Coi Leray & Nicki Minaj
+38; Sand In My Boots; Morgan Wallen
+39; Love Nwantiti (Ah Ah Ah); CKay
+40; Never Say Never; Cole Swindell / Lainey Wilson
+41; AA; Walker Hayes
+42; Boyfriend; Dove Cameron
+43; Thinking With My Dick; Kevin Gates Featuring Juicy J
+44; Drunk (And I Don't Wanna Go Home); Elle King & Miranda Lambert
+45; Beers On Me; Dierks Bentley, Breland & HARDY
+46; Knife Talk; Drake Featuring 21 Savage & Project Pat
+47; Broadway Girls; Lil Durk Featuring Morgan Wallen
+48; She's All I Wanna Be; Tate McRae
+49; Numb Little Bug; Em Beihold
+50; Nobody Like U; 4*TOWN (From Disney And Pixar's Turning Red)
+51; The Motto; Tiesto & Ava Max
+52; Slow Down Summer; Thomas Rhett
+53; 23; Sam Hunt
+54; Peru; Fireboy DML & Ed Sheeran
+55; The Family Madrigal; Stephanie Beatriz, Olga Merediz & Encanto Cast
+56; Handsomer; Russ Featuring Ktlyn
+57; Sometimes; Juice WRLD
+58; To Be Loved By You; Parker McCollum
+59; Heart On Fire; Eric Church
+60; Circles Around This Town; Maren Morris
+61; Computer Murderers; Lil Durk
+62; Petty Too; Lil Durk Featuring Future
+63; Do We Have A Problem?; Nicki Minaj X Lil Baby
+64; To The Moon!; JNR CHOI & Sam Tompkins
+65; Me Or Sum; Nardo Wick, Lil Baby & Future
+66; Nail Tech; Jack Harlow
+67; Flower Shops; ERNEST Featuring Morgan Wallen
+68; No Interviews; Lil Durk
+69; Never Wanted To Be That Girl; Carly Pearce & Ashley McBryde
+70; If I Was A Cowboy; Miranda Lambert
+71; Freaky Deaky; Tyga X Doja Cat
+72; Ghost Story; Carrie Underwood
+73; What Else Can I Do?; Diane Guerrero & Stephanie Beatriz
+74; Dos Oruguitas; Sebastian Yatra
+75; High; The Chainsmokers
+76; Rumors; Gucci Mane Featuring Lil Durk
+77; P Power; Gunna Featuring Drake
+78; Smokin Out The Window; Silk Sonic (Bruno Mars & Anderson .Paak)
+79; Barbarian; Lil Durk
+80; Golden Child; Lil Durk
+81; Pressure; Ari Lennox
+82; Beautiful Lies; Yung Bleu & Kehlani
+83; Give Heaven Some Hell; HARDY
+84; Tom's Diner; AnnenMayKantereit & Giant Rooks
+85; I Love You So; The Walters
+86; Half Of My Hometown; Kelsea Ballerini Featuring Kenny Chesney
+87; Bones; Imagine Dragons
+88; By Your Side; Rod Wave
+89; Banking On Me; Gunna
+90; Come Back As A Country Boy; Blake Shelton
+91; Maybe; Machine Gun Kelly & Bring Me The Horizon
+92; Over; Lucky Daye
+93; City Of Gods; Fivio Foreign Kanye West & Alicia Keys
+94; Smoking & Thinking; Lil Durk
+95; Money So Big; Yeat
+96; Closer; Saweetie Featuring H.E.R.
+97; I'm Tired; Labrinth & Zendaya
+98; She Likes It; Russell Dickerson & Jake Scott
+99; IDGAF; BoyWithUke X blackbear
+100; Waiting On A Miracle; Stephanie Beatriz
