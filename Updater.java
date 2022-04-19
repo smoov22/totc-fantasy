@@ -5,8 +5,14 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.Comparator;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.Iterator;
+import java.util.LinkedList;
+import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
 import java.util.Set;
@@ -162,15 +168,21 @@ public class Updater {
         players = playerPut(values, players, Players.BIGG0320, Artists.LILDURK, Artists.KIDLAROI, Artists.SZA, Artists.ERICCHURCH, Artists.WEEKND);
         players = playerPut(values, players, Players.CAMERONCARDINAL, Artists.LILBABY, Artists.LILDURK, Artists.OLIVIARODRIGO, Artists.MEGAN, Artists.SZA);
         players = playerPut(values, players, Players.KEATON, Artists.ADELE, Artists.TAYLORSWIFT, Artists.LILNASX, Artists.DOJACAT, Artists.THEANXIETY);
-        System.out.println("Total Points:");
-        for (Players player: Players.values()) {
-            System.out.println(player.toString() + ": " + player.getPoints());
-        }
         String stringer = "Total points:\n";
+        List<Players> pointers = new LinkedList<>();
         for (Players player: Players.values()) {
+            pointers.add(player);
+        }
+        pointers.sort(new PlayerComparator());
+        Iterator<Players> i = pointers.iterator();
+        // for (Players player: Players.values()) {
+        //     stringer += player.toString() + ": " + player.getPoints() + "\n";
+        // }
+        while (i.hasNext() == true) {
+            Players player = i.next();
             stringer += player.toString() + ": " + player.getPoints() + "\n";
         }
-        FileWriter fileWriter = new FileWriter(new File("export.txt"));
+        FileWriter fileWriter = new FileWriter(new File("export2.txt"));
         BufferedWriter writer = new BufferedWriter(fileWriter);
         writer.write(stringer);
         writer.close();
