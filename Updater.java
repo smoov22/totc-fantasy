@@ -175,14 +175,11 @@ public class Updater {
         }
         pointers.sort(new PlayerComparator());
         Iterator<Players> i = pointers.iterator();
-        // for (Players player: Players.values()) {
-        //     stringer += player.toString() + ": " + player.getPoints() + "\n";
-        // }
         while (i.hasNext() == true) {
             Players player = i.next();
             stringer += player.toString() + ": " + player.getPoints() + "\n";
         }
-        FileWriter fileWriter = new FileWriter(new File("export2.txt"));
+        FileWriter fileWriter = new FileWriter(new File("export.txt"));
         BufferedWriter writer = new BufferedWriter(fileWriter);
         writer.write(stringer);
         writer.close();
