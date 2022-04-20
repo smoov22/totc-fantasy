@@ -1,4 +1,7 @@
-def format (filename):
+'''
+Formats Hot 100 text documents in various ways
+'''
+def format (filename): # puts Hot 100 entry onto a single line rather than across 4 lines
     with open(filename) as result:
         string=""
         i=0
@@ -17,7 +20,7 @@ def format (filename):
             i += 1
     return string
 
-def remove_first_three_chars (filename):
+def remove_first_three_chars (filename): # removes first three characters from a row
     with open(filename) as result:
         string = ""
         for row in result:
@@ -25,8 +28,8 @@ def remove_first_three_chars (filename):
             string += row[3:] + "\n"
     return string
 
-def main():
-    output=format("hot100/4-23.txt")
+def main(): 
+    output=format("hot100/4-23.txt") # changed week by week to represent the incoming file
     file = open("temp.txt", "w")
     file.write(output)
 

@@ -1,4 +1,9 @@
-
+/**
+ * Enumeration of all artists being used by players
+ * The multiplier value is a representation of how many players chose the artist
+ * When several players choose an artist, the points are split among those who chose them
+ * @author Kyle Mullen, 2022
+ */
 public enum Artists {
     BADBUNNY ("Bad Bunny", 3),
     LILDURK ("Lil Durk", 9),
@@ -76,15 +81,26 @@ public enum Artists {
 
     private String name;
     private int multiplier;
+    /**
+     * Creates an artist object
+     * @param name the name of the artist
+     * @param multiplier artist multiplier value
+     */
     private Artists (String name, int multiplier) {
         this.name = name;
         this.multiplier = multiplier;
     }
-    
+    /**
+     * Returns artist name
+     * @return artist name
+     */
     public String toName() {
         return name;
     }
-
+    /**
+     * Returns artist multiplier 
+     * @return artist multiplier
+     */
     public int getMultiplier() {
         return multiplier;
     }

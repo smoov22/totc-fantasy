@@ -5,9 +5,6 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.Comparator;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Iterator;
@@ -18,8 +15,19 @@ import java.util.Scanner;
 import java.util.Set;
 
 import org.python.util.PythonInterpreter;
-
+/**
+ * Updates the "export.txt" file in accordance with the Hot 100 text document currently listed in formatter.py
+ * @author Kyle Mullen, 2022
+ */
 public class Updater {
+    /**
+     * Adds points to each artist as indicated by the imported and formatted hot 100
+     * @param values a map of artists and points
+     * @param filename The Hot 100 text file (found in \hot100), as formatted by formatter.py, being used to add values
+     * @return updated values file
+     * @throws FileNotFoundException
+     * @throws IOException
+     */
     public static Map<String, Integer> valueFromFile(Map<String, Integer> values, String filename) throws FileNotFoundException, IOException{
         FileReader fileReader = new FileReader(new File(filename));
         BufferedReader reader = new BufferedReader(fileReader);
@@ -31,23 +39,26 @@ public class Updater {
                 fileReader.close();
                 return null;
             }
+            /**
+             * creates a map of the enumeration of artists with the number of points they earned from the relevant chart
+             * This map does not take into account any multipliers the artist has
+             */
             String[] linepieces = line.split("; ");
             int value = Integer.parseInt(linepieces[0]);
             int points = 101 - Integer.parseInt(linepieces[0]);
             if (value < 11) {
-                points += 10;
+                points += 10; // bonus points for songs in top 10
             }
             else if (value < 21) {
-                points += 5;
+                points += 5; // bonus points for songs in top 20
             }
             else if (value < 41) {
-                points += 2;
+                points += 2; // bonus points for songs in top 40
             }
             String artist = linepieces[2];
             for (Artists artists: Artists.values()) {
                 if (artist.toLowerCase().contains(artists.toName().toLowerCase())) {
                     values.put(artists.toString(), points + values.get(artists.toString()));
-                    // System.out.println(artist + " " + linepieces[1] + " " + points + " for " + artists);
                 }
             }
             line = reader.readLine();
@@ -56,7 +67,11 @@ public class Updater {
         fileReader.close();
         return values;
     }
-
+    /**
+     * Alternate value maker used early on that asks for manual inputs of each artist's points
+     * @param values a map of artists
+     * @return a map of artists with points
+     */
     public static Map<String,Integer> manualvalueMaker (Map<String, Integer> values) {
         Scanner scanner = new Scanner(System.in);
         for (Artists artists: Artists.values()) {
@@ -79,7 +94,19 @@ public class Updater {
         scanner.close();
         return values;
     }
-
+    /**
+     * Given a player, adds the divided up points of 5 artists to the player's total points, 
+     * then returns the map of player name to points with the change made
+     * @param values map of players to points
+     * @param players the enumeration of players
+     * @param player a single player
+     * @param artist1 their first artist pick
+     * @param artist2 their second artist pick
+     * @param artist3 their third artist pick
+     * @param artist4 their fourth artist pick
+     * @param artist5 their fifth artist pick
+     * @return the updated map
+     */
     private static Map<String, Integer> playerPut(Map<String, Integer> values, Map<String, Integer> players, Players player, Artists artist1, Artists artist2, Artists artist3, Artists artist4, Artists artist5) {
         int total = players.get(player.toString());
         Integer pointer = players.get(player.toString()) + (values.get(artist1.toString()) / artist1.getMultiplier());
@@ -99,10 +126,16 @@ public class Updater {
     }
 
     public static void main(String[] args) throws IOException{
+        /**
+         * Creates a zeroed map of all artists in the enumeration
+         */
         Map<String, Integer> values = new HashMap<>();
         for (Artists artists: Artists.values()) {
             values.put(artists.toString(), 0);
         }
+        /**
+         * Converts the previous export into the current artist map, or else creates a zeroed map
+         */
         FileReader fileReader = new FileReader("export.txt");
         BufferedReader bufferedReader = new BufferedReader(fileReader);
         Map<String, Integer> players = new HashMap<>();
@@ -117,20 +150,19 @@ public class Updater {
                 players.put(player.toString(), 0);
             }
         }
-        else {String line = bufferedReader.readLine();
-        while (line != null) {
-            String[] parts = line.split(": ");
-            players.put(parts[0], Integer.parseInt(parts[1]));
-            line=bufferedReader.readLine();
+        else {
+            String line = bufferedReader.readLine();
+            while (line != null) {
+                String[] parts = line.split(": ");
+                players.put(parts[0], Integer.parseInt(parts[1]));
+                line=bufferedReader.readLine();
+            }
         }
-    }
-        // for (Players player: Players.values()) {
-        //     players.put(player.toString(), 0);
-        // }
-        // values = valueMaker(values);
-        bufferedReader.close();
         fileReader.close();
         System.out.println(players);
+        /**
+         * Retrieves the values for each artist, then uses playerput on each player
+         */
         try {
         PythonInterpreter interpreter = new PythonInterpreter();
         interpreter.execfile("formatter.py");
@@ -139,7 +171,6 @@ public class Updater {
         } catch (IOException io) {
             System.out.println("IO exception");
         }
-        // System.out.println(values);
         players = playerPut(values, players, Players.IVY, Artists.LILDURK, Artists.FUTURE, Artists.CARDIB, Artists.MORGANWALLEN, Artists.POSTMALONE);
         players = playerPut(values, players, Players.FANSTAR, Artists.POSTMALONE, Artists.WEEKND, Artists.MORGANWALLEN, Artists.ADELE, Artists.JUSTINBIEBER);
         players = playerPut(values, players, Players.LUIS, Artists.LILNASX, Artists.KENDRICKLAMAR, Artists.MARIAHCAREY, Artists.WEEKND, Artists.MEGAN);
@@ -168,6 +199,9 @@ public class Updater {
         players = playerPut(values, players, Players.BIGG0320, Artists.LILDURK, Artists.KIDLAROI, Artists.SZA, Artists.ERICCHURCH, Artists.WEEKND);
         players = playerPut(values, players, Players.CAMERONCARDINAL, Artists.LILBABY, Artists.LILDURK, Artists.OLIVIARODRIGO, Artists.MEGAN, Artists.SZA);
         players = playerPut(values, players, Players.KEATON, Artists.ADELE, Artists.TAYLORSWIFT, Artists.LILNASX, Artists.DOJACAT, Artists.THEANXIETY);
+        /**
+         * Creates a new export in which all players are in order from most to least points, then exports it
+         */
         String stringer = "Total points:\n";
         List<Players> pointers = new LinkedList<>();
         for (Players player: Players.values()) {
