@@ -133,7 +133,7 @@ public class Updater {
         System.out.println(players);
         try {
         PythonInterpreter interpreter = new PythonInterpreter();
-        interpreter.execfile("year_end.py");
+        interpreter.execfile("formatter.py");
         interpreter.close();
         values = valueFromFile(values, "temp.txt");
         } catch (IOException io) {
