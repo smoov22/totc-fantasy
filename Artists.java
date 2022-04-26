@@ -74,6 +74,11 @@ public enum Artists {
     IMAGINEDRAGONS ("Imagine Dragons", 1),
     WILLOW ("Willow", 1),
     JBALVIN("J Balvin", 1),
+    GAYLE("Gayle", 1),
+    JACKHARLOW("Jack Harlow", 1),
+    LATTO ("Latto", 1),
+    DJKHALED("DJ Khaled", 1),
+    BRENDALEE("Brenda Lee", 1),
     CHARLIXCX ("Charli XCX", 1);
 
 

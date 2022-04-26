@@ -5,6 +5,7 @@
  * @author Kyle Mullen, 2022
  */
 public enum Players {
+    HIDBIDBONUS,
     IVY,
     FANSTAR,
     LUIS,

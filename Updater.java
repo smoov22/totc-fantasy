@@ -171,6 +171,7 @@ public class Updater {
         } catch (IOException io) {
             System.out.println("IO exception");
         }
+        players = playerPut(values, players, Players.HIDBIDBONUS, Artists.JACKHARLOW, Artists.GAYLE, Artists.BRENDALEE, Artists.LATTO, Artists.DJKHALED);
         players = playerPut(values, players, Players.IVY, Artists.LILDURK, Artists.FUTURE, Artists.CARDIB, Artists.MORGANWALLEN, Artists.POSTMALONE);
         players = playerPut(values, players, Players.FANSTAR, Artists.POSTMALONE, Artists.WEEKND, Artists.MORGANWALLEN, Artists.ADELE, Artists.JUSTINBIEBER);
         players = playerPut(values, players, Players.LUIS, Artists.LILNASX, Artists.KENDRICKLAMAR, Artists.MARIAHCAREY, Artists.WEEKND, Artists.MEGAN);
