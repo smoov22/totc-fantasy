@@ -91,11 +91,20 @@ public enum Artists {
     /**
      * Creates an artist object
      * @param name the name of the artist
-     * @param multiplier artist multiplier value
+     * @param multiplier artist multiplier value (for this format, 1 no matter what)
      */
     private Artists (String name, int multiplier) {
         this.name = name;
-        this.multiplier = multiplier;
+        this.multiplier = 1;
+    }
+    
+    /**
+     * Alternate constructor for 1 multiplier
+     * @param name name of the artist
+     */
+    private Artists(String name) {
+        this.name = name;
+        this.multiplier = 1;
     }
     /**
      * Returns artist name
