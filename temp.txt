@@ -1,100 +1,100 @@
 1; As It Was; Harry Styles
-2; First Class; Jack Harlow
-3; About Damn Time; Lizzo
-4; Wait For U; Future Featuring Drake & Tems
-5; Jimmy Cooks; Drake Featuring 21 Savage
-6; Running Up That Hill (A Deal With God); Kate Bush
-7; Break My Soul; Beyonce
-8; Me Porto Bonito; Bad Bunny & Chencho Corleone
-9; Heat Waves; Glass Animals
-10; Glimpse Of Us; Joji
-11; Big Energy; Latto
-12; Titi Me Pregunto; Bad Bunny
-13; The Kind Of Love We Make; Luke Combs
-14; Wasted On You; Morgan Wallen
-15; Stay; The Kid LAROI & Justin Bieber
-16; I Like You (A Happier Song); Post Malone Featuring Doja Cat
-17; Sticky; Drake
-18; Late Night Talking; Harry Styles
-19; Numb Little Bug; Em Beihold
-20; Boyfriend; Dove Cameron
-21; Ghost; Justin Bieber
-22; Left and Right; Charlie Puth and Jungkook
-23; Get Into It (Yuh); Doja Cat
-24; Sunroof; Nicky Youre & dazy
+2; About Damn Time; Lizzo
+3; First Class; Jack Harlow
+4; Running Up That Hill (A Deal With God); Kate Bush
+5; Wait For U; Future Featuring Drake & Tems
+6; Jimmy Cooks; Drake Featuring 21 Savage
+7; Me Porto Bonito; Bad Bunny & Chencho Corleone
+8; Heat Waves; Glass Animals
+9; Break My Soul; Beyonce
+10; Big Energy; Latto
+11; Titi Me Pregunto; Bad Bunny
+12; Wasted on You; Morgan Wallen
+13; Hot Shit; Cardi B, Ye, & Lil Durk
+14; Glimpse of Us; Joji
+15; Late Night Talking; Harry Styles
+16; STAY; The Kid LAROI and Justin Bieber
+17; I Like You (A Happier Song); Post Malone Featuring Doja Cat
+18; Numb Little Bug; Em Beihold
+19; The Kind of Love We Make; Luke Combs
+20; Sunroof; Nicky Youre and dazy
+21; Get Into It (Yuh); Doja Cat
+22; Ghost; Justin Bieber
+23; Boyfriend; Dove Cameron
+24; Sticky; Drake
 25; Bad Habits; Ed Sheeran
 26; Moscow Mule; Bad Bunny
-27; Enemy; Imagine Dragons X JID
-28; Cold Heart (PNAU Remix); Elton John & Dua Lipa
-29; Woman; Doja Cat
-30; Shivers; Ed Sheeran
-31; Like I Love Country Music; Kane Brown
-32; Provenza; Karol G
-33; Super Gremlin; Kodak Black
-34; Vegas; Doja Cat
-35; Take My Name; Parmalee
-36; You Proof; Morgan Wallen
-37; Thats What I Want; Lil Nas X
-38; She Had Me At Heads Carolina; Cole Swindell
-39; Something In The Orange; Zach Bryan
-40; Efecto; Bad Bunny
-41; Sweetest Pie; Megan Thee Stallion & Dua Lipa
-42; Damn Strait; Scotty McCreery
-43; Trouble With A Heartbreak; Jason Aldean
-44; Massive; Drake
-45; Thousand Miles; The Kid LAROI
-46; Fall In Love; Bailey Zimmerman
-47; Bam Bam; Camila Cabello Featuring Ed Sheeran
-48; Despues de La Playa; Bad Bunny
-49; Party; Bad Bunny & Rauw Alejandro
-50; 2step; Ed Sheeran Featuring Lil Baby
-51; In A Minute; Lil Baby
-52; MAMIII; Becky G X Karol G
-53; Ojitos Lindos; Bad Bunny & Bomba Estereo
-54; Hold My Hand; Lady Gaga
-55; Puffin On Zootiez; Future
-56; Cooped Up; Post Malone Featuring Roddy Ricch
-57; Sleazy Flow; SleazyWorld Go Featuring Lil Baby
-58; What Happened To Virgil; Lil Durk Featuring Gunna
-59; When You're Gone; Shawn Mendes
-60; Carolina; Taylor Swift
-61; Rock And A Hard Place; Bailey Zimmerman
-62; I Ain't Worried; OneRepublic
-63; 5 Foot 9; Tyler Hubbard
-64; Falling Back; Drake
-65; Silent Hill; Kendrick Lamar & Kodak Black
-66; Tomorrow Me; Luke Combs
-67; Late To Da Party (F*CK BET); Lil Nas X & Youngboy Never Broke Again
-68; Tarot; Bad Bunny & Jhay Cortez
-69; To The Moon!; JNR CHOI & Sam Tompkins
-70; Flower Shops; ERNEST Featuring Morgan Wallen
-71; Ghost Story; Carrie Underwood
-72; From The D 2 The LBC; Eminem & Snoop Dogg
-73; Hotel Lobby (Unc And Phew); Quavo & Takeoff
-74; Last Night Lonely; Jon Pardi
-75; Te Felicito; Shakira & Rauw Alejandro
-76; Call Me Everyday; Chris Brown Featuring WizKid
-77; 7500 OBO; Tim McGraw
-78; Psychic; Chris Brown Featuring Jack Harlow
-79; WE (Warm Embrace); Chris Brown
-80; Thought You Should Know; Morgan Wallen
-81; Cash In Cash Out; Pharrell Williams Featuring 21 Savage & Tyler, The Creator
-82; U-Digg; Lil Baby, 42 Dugg, & Veeze
-83; Circles Around This Town; Maren Morris
-84; Un Ratito; Bad Bunny
-85; Love Me More; Sam Smith
-86; So Good; Halsey
-87; New Truck; Dylan Scott
-88; F.N.F. (Let's Go); Hitkidd and Glorilla
-89; Wild as Her; Corey Kent
-90; Right On; Lil Baby
-91; Burglars and Murderers; Lil Durk Featuring EST Gee
-92; Addicted; Chris Brown Featuring Lil Baby
-93; She Likes It; Russell Dickerson & Jake Scott
-94; Texts Go Green; Drake
-95; Did Shit To Me; Lil Durk Featuring Doodie Lo
-96; Music For A Sushi Restaurant; Harry Styles
-97; Desesperados; Rauw Alejandro & Chencho Corleone
-98; Possessive; Chris Brown Featuring Lil Wayne & BLEU
-99; Die Young; Sleepy Hallow Featuring 347aidan
-100; Plan B; Megan Thee Stallion
+27; Like I Love Country Music; Kane Brown
+28; You Proof; Morgan Wallen
+29; Cold Heart (PNAU Remix); Elton John & Dua Lipa
+30; Enemy; Imagine Dragons X JID
+31; Vegas; Doja Cat
+32; Woman; Doja Cat
+33; She Had Me At Heads Carolina; Cole Swindell
+34; Shivers; Ed Sheeran
+35; Super Gremlin; Kodak Black
+36; Provenza; Karol G
+37; Something In The Orange; Zach Bryan
+38; Damn Strait; Scotty McCreery
+39; Take My Name; Parmalee
+40; Master Of Puppets; Metallica
+41; Thats What I Want; Lil Nas X
+42; Efecto; Bad Bunny
+43; Fall In Love; Bailey Zimmerman
+44; I Ain't Worried; OneRepublic
+45; In A Minute; Lil Baby
+46; Sweetest Pie; Megan Thee Stallion & Dua Lipa
+47; Left And Right; Charlie Puth Featuring Jung Kook
+48; 2step; Ed Sheeran Featuring Lil Baby
+49; Thousand Miles; The Kid LAROI
+50; Despues de La Playa; Bad Bunny
+51; Trouble With A Heartbreak; Jason Aldean
+52; Party; Bad Bunny & Rauw Alejandro
+53; What Happened To Virgil; Lil Durk Featuring Gunna
+54; Rock And A Hard Place; Bailey Zimmerman
+55; Sleazy Flow; SleazyWorld Go Featuring Lil Baby
+56; Massive; Drake
+57; Ojitos Lindos; Bad Bunny & Bomba Estereo
+58; Puffin On Zootiez; Future
+59; Cooped Up; Post Malone Featuring Roddy Ricch
+60; When You're Gone; Shawn Mendes
+61; 5 Foot 9; Tyler Hubbard
+62; Last Night Lonely; Jon Pardi
+63; Bam Bam; Camila Cabello Featuring Ed Sheeran
+64; Tarot; Bad Bunny & Jhay Cortez
+65; Hold My Hand; Lady Gaga
+66; Silent Hill; Kendrick Lamar & Kodak Black
+67; Son Of A Sinner; Jelly Roll
+68; Flower Shops; ERNEST Featuring Morgan Wallen
+69; So Good; Halsey
+70; Good Love; City Girls & Usher
+71; Wishful Drinking; Ingrid Andress With Sam Hunt
+72; Hotel Lobby (Unc And Phew); Quavo & Takeoff
+73; 7500 OBO; Tim McGraw
+74; To The Moon!; JNR CHOI & Sam Tompkins
+75; F.N.F. (Let's Go); Hitkidd & Glorilla
+76; Country On; Luke Bryan
+77; Whiskey On You; Nate Smith
+78; New Truck; Dylan Scott
+79; Circles Around This Town; Maren Morris
+80; Wild As Her; Corey Kent
+81; Love Me More; Sam Smith
+82; More; j-hope
+83; Numb; Marshmello & Khalid
+84; Cash In Cash Out; Pharrell Williams Featuring 21 Savage & Tyler, The Creator
+85; Un Ratito; Bad Bunny
+86; Ghost Story; Carrie Underwood
+87; Right On; Lil Baby
+88; Thought You Should Know; Morgan Wallen
+89; Te Felicito; Shakira & Rauw Alejandro
+90; She Likes It; Russell Dickerson & Jake Scott
+91; Plan B; Megan Thee Stallion
+92; Desesperados; Rauw Alejandro & Chencho Corleone
+93; La Corriente; Bad Bunny & Tony Dize
+94; Bones; Imagine Dragons
+95; Until I Found You; Stephen Sanchez
+96; Best Thing Since Backroads; Jake Owen
+97; U-Digg; Lil Baby, 42 Dugg & Veeze
+98; Unstoppable; Sia
+99; Rich Minion; Yeat
+100; Bad Habit; Steve Lacy
