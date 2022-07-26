@@ -29,7 +29,7 @@ def remove_first_three_chars (filename): # removes first three characters from a
     return string
 
 def main(): 
-    output=format("hot100/7-23.txt") # changed week by week to represent the incoming file
+    output=format("hot100/7-30.txt") # changed week by week to represent the incoming file
     file = open("temp2.txt", "w")
     file.write(output)
 
