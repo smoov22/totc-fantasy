@@ -1,7 +1,7 @@
 '''
 Formats Hot 100 text documents in various ways
 '''
-def format (filename): # puts Hot 100 entry onto a single line rather than across 4 lines
+def format (filename): # puts Hot 100 entry onto a single line rather than across 7 lines
     with open(filename) as result:
         string=""
         i=0
