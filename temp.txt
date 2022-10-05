@@ -1,100 +1,100 @@
-1; As It Was; Harry Styles
-2; Bad Habit; Steve Lacy
-3; I Like You (A Happier Song); Post Malone Featuring Doja Cat
-4; Sunroof; Nicky Youre & dazy
-5; Super Freaky Girl; Nicki Minaj
-6; You Proof; Morgan Wallen
+1; Bad Habit; Steve Lacy
+2; As It Was; Harry Styles
+3; Unholy; Sam Smith & Kim Petras
+4; I Like You (A Happier Song); Post Malone Featuring Doja Cat
+5; Sunroof; Nicky Youre & dazy
+6; Super Freaky Girl; Nicki Minaj
 7; I Ain't Worried; OneRepublic
-8; The Kind Of Love We Make; Luke Combs
-9; About Damn Time; Lizzo
-10; Wait For U; Future Featuring Drake & Tems
-11; Late Night Talking; Harry Styles
-12; Me Porto Bonito; Bad Bunny & Chencho Corleone
-13; Titi Me Pregunto; Bad Bunny
+8; You Proof; Morgan Wallen
+9; Tomorrow 2; GloRilla & Cardi B
+10; About Damn Time; Lizzo
+11; The Kind Of Love We Make; Luke Combs
+12; Wait For U; Future Featuring Drake & Tems
+13; Late Night Talking; Harry Styles
 14; Vegas; Doja Cat
-15; Wasted On You; Morgan Wallen
-16; She Had Me At Heads Carolina; Cole Swindell
-17; Heat Waves; Glass Animals
-18; Jimmy Cooks; Drake Featuring 21 Savage
-19; Running Up That Hill (A Deal With God); Kate Bush
-20; First Class; Jack Harlow
-21; Something In The Orange; Zach Bryan
+15; Me Porto Bonito; Bad Bunny & Chencho Corleone
+16; Titi Me Pregunto; Bad Bunny
+17; Wasted On You; Morgan Wallen
+18; She Had Me At Heads Carolina; Cole Swindell
+19; Heat Waves; Glass Animals
+20; Jimmy Cooks; Drake Featuring 21 Savage
+21; I'm Good (Blue); David Guetta & Bebe Rexha
 22; 5 Foot 9; Tyler Hubbard
-23; Stay; The Kid LAROI & Justin Bieber
-24; I'm Good (Blue); David Guetta & Bebe Rexha
-25; Shut Down; BLACKPINK
-26; Break My Soul; Beyonce
-27; Glimpse Of Us; Joji
-28; Hold Me Closer; Elton John & Britney Spears
-29; Under The Influence; Chris Brown
-30; Thank God; Kane Brown With Katelyn Brown
-31; Moscow Mule; Bad Bunny
-32; Fall In Love; Bailey Zimmerman
-33; Betty (Get Money); Yung Gravy
-34; Romantic Homicide; d4vd
-35; In A Minute; Lil Baby
-36; Ghost; Justin Bieber
-37; Rock And A Hard Place; Bailey Zimmerman
-38; Unstoppable; Sia
-39; Son Of A Sinner; Jelly Roll
-40; Big Energy; Latto
-41; Last Night Lonely; Jon Pardi
+23; Something In The Orange; Zach Bryan
+24; First Class; Jack Harlow
+25; Under The Influence; Chris Brown
+26; Running Up That Hill (A Deal With God); Kate Bush
+27; Hold Me Closer; Elton John & Britney Spears
+28; Glimpse Of Us; Joji
+29; Rock And A Hard Place; Bailey Zimmerman
+30; Fall In Love; Bailey Zimmerman
+31; Son Of A Sinner; Jelly Roll
+32; Star Walkin' (League Of Legends Worlds Anthem); Lil Nas X
+33; Unstoppable; Sia
+34; Betty (Get Money); Yung Gravy
+35; Romantic Homicide; d4vd
+36; Moscow Mule; Bad Bunny
+37; Big Energy; Latto
+38; Thank God; Kane Brown With Katelyn Brown
+39; Break My Soul; Beyonce
+40; In A Minute; Lil Baby
+41; Die For You; The Weeknd
 42; Staying Alive; DJ Khaled Featuring Drake & Lil Baby
-43; F.N.F. (Let's Go); Hitkidd & GloRilla
-44; Left And Right; Charlie Puth Featuring Jung Kook
-45; Numb; Marshmello & Khalid
-46; Die For You; The Weeknd
-47; Efecto; Bad Bunny
-48; Victoria’s Secret; Jax
-49; Bones; Imagine Dragons
-50; Whiskey On You; Nate Smith
-51; Last Last; Burna Boy
-52; Free Mind; Tems
-53; So Good; Halsey
-54; Wishful Drinking; Ingrid Andress With Sam Hunt
-55; Sleazy Flow; SleazyWorld Go Featuring Lil Baby
-56; Golden Hour; JVKE
-57; Pink Venom; BLACKPINK
-58; Gatubela; Karol G x Maldy
-59; Until I Found You; Stephen Sanchez
-60; Don't Come Lookin'; Jackson Dean
-61; Cuff It; Beyonce
-62; Evergreen; Omar Apollo
-63; Put It On Me; YoungBoy Never Broke Again
-64; Truth About You; Mitchell Tenpenny
-65; Despecha; Rosalia
-66; Dah Dah DahDah; Nardo Wick
-67; Party; Bad Bunny & Rauw Alejandro
-68; 2 Be Loved (Am I Ready); Lizzo
-69; Billie Eilish.; Armani White
-70; Ojitos Lindos; Bad Bunny & Bomba Estereo
-71; Freestyle; Lil Baby
-72; All Mine; Brent Faiyaz
-73; What My World Spins Around; Jordan Davis
-74; Neverita; Bad Bunny
-75; Half Of Me; Thomas Rhett Featuring Riley Green
-76; She Likes It; Russell Dickerson & Jake Scott
-77; Talk; Yeat
-78; Ghost Story; Carrie Underwood
-79; Music For A Sushi Restaurant; Harry Styles
-80; Wait In The Truck; HARDY Featuring Lainey Wilson
-81; Despues de La Playa; Bad Bunny
-82; Static; Steve Lacy
-83; Like I Love Country Music; Kane Brown
-84; Detox; Lil Baby
-85; La Bachata; Manuel Turizo
-86; With A Woman You Love; Justin Moore
-87; Country On; Luke Bryan
-88; Calm Down; Rema & Selena Gomez
-89; Tarot; Bad Bunny & Jhay Cortez
-90; Pick Me Up; Gabby Barrett
-91; Hell Yeah; Little Big Town
-92; Wild As Her; Corey Kent
-93; Love In The Way; BLEU & Nicki Minaj
-94; Hot Shit; Cardi B, Ye & Lil Durk
-95; Dark Red; Steve Lacy
-96; Thought You Should Know; Morgan Wallen
-97; Where It Ends; Bailey Zimmerman
-98; Backstage Passes; EST Gee Featuring Jack Harlow
-99; Snap; Rosa Linn
-100; Beat The Odds; Lil Tjay
+43; Left And Right; Charlie Puth Featuring Jung Kook
+44; F.N.F. (Let's Go); Hitkidd & GloRilla
+45; Whiskey On You; Nate Smith
+46; What My World Spins Around; Jordan Davis
+47; Numb; Marshmello & Khalid
+48; Efecto; Bad Bunny
+49; Last Last; Burna Boy
+50; Free Mind; Tems
+51; Bones; Imagine Dragons
+52; Victoria’s Secret; Jax
+53; Evergreen; Omar Apollo
+54; Cuff It; Beyonce
+55; Wishful Drinking; Ingrid Andress With Sam Hunt
+56; Last Night Lonely; Jon Pardi
+57; Until I Found You; Stephen Sanchez
+58; 2 Be Loved (Am I Ready); Lizzo
+59; Don't Come Lookin'; Jackson Dean
+60; Golden Hour; JVKE
+61; Sleazy Flow; SleazyWorld Go Featuring Lil Baby
+62; Gatubela; Karol G x Maldy
+63; Billie Eilish.; Armani White
+64; Despecha; Rosalia
+65; Freestyle; Lil Baby
+66; Half Of Me; Thomas Rhett Featuring Riley Green
+67; Shut Down; BLACKPINK
+68; Ghost Story; Carrie Underwood
+69; All Mine; Brent Faiyaz
+70; Put It On Me; YoungBoy Never Broke Again
+71; Truth About You; Mitchell Tenpenny
+72; Music For A Sushi Restaurant; Harry Styles
+73; Dah Dah DahDah; Nardo Wick
+74; She Likes It; Russell Dickerson & Jake Scott
+75; Neverita; Bad Bunny
+76; So Good; Halsey
+77; La Bachata; Manuel Turizo
+78; Static; Steve Lacy
+79; Dark Red; Steve Lacy
+80; Calm Down; Rema & Selena Gomez
+81; Pick Me Up; Gabby Barrett
+82; Wait In The Truck; HARDY Featuring Lainey Wilson
+83; Country On; Luke Bryan
+84; Wild As Her; Corey Kent
+85; Soul; Lee Brice
+86; Bzrp Music Sessions, Vol. 52; Bizarrap & Quevedo
+87; Pink Venom; BLACKPINK
+88; Good Love; City Girls & Usher
+89; With A Woman You Love; Justin Moore
+90; Snap; Rosa Linn
+91; Like I Love Country Music; Kane Brown
+92; Mary On A Cross; Ghost
+93; Talk; Yeat
+94; Detox; Lil Baby
+95; Out In The Middle; Zac Brown Band
+96; Blow; Moneybagg Yo
+97; World's Smallest Violin; AJR
+98; Oklahoma Smoke Show; Zach Bryan
+99; No Se Va; Grupo Frontera
+100; Down Home; Jimmie Allen
