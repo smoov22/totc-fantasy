@@ -165,7 +165,7 @@ public class Updater {
          */
         try {
         PythonInterpreter interpreter = new PythonInterpreter();
-        interpreter.execfile("alt-formatter.py");
+        interpreter.execfile("alt-alt-formatter.py");
         interpreter.close();
         values = valueFromFile(values, "temp.txt");
         } catch (IOException io) {
