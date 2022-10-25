@@ -164,9 +164,9 @@ public class Updater {
          * Retrieves the values for each artist, then uses playerput on each player
          */
         try {
-        PythonInterpreter interpreter = new PythonInterpreter();
-        interpreter.execfile("alt-alt-formatter.py");
-        interpreter.close();
+        // PythonInterpreter interpreter = new PythonInterpreter();
+        // interpreter.execfile("alt-alt-formatter.py");
+        // interpreter.close();
         values = valueFromFile(values, "temp.txt");
         } catch (IOException io) {
             System.out.println("IO exception");
