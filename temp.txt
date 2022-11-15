@@ -1,100 +1,100 @@
 1; Anti-Hero; Taylor Swift
-2; Lift Me Up; Rihanna
-3; Unholy; Sam Smith & Kim Petras
-4; Bad Habit; Steve Lacy
-5; As It Was; Harry Styles
-6; Lavender Haze; Taylor Swift
-7; Midnight Rain; Taylor Swift
-8; I Like You (A Happier Song); Post Malone Featuring Doja Cat
-9; Bejeweled; Taylor Swift
-10; Super Freaky Girl; Nicki Minaj
-11; Shirt; SZA
-12; Maroon; Taylor Swift
-13; I Ain't Worried; OneRepublic
-14; You Proof; Morgan Wallen
-15; I'm Good (Blue); David Guetta & Bebe Rexha
-16; Snow On The Beach; Taylor Swift Featuring Lana Del Rey
-17; Karma; Taylor Swift
-18; Vegas; Doja Cat
-19; Sunroof; Nicky Youre & dazy
-20; You're On Your Own, Kid; Taylor Swift
-21; Under The Influence; Chris Brown
-22; Wasted On You; Morgan Wallen
-23; In My Head; Juice WRLD
-24; Vigilante Shit; Taylor Swift
-25; Jimmy Cooks; Drake Featuring 21 Savage
-26; Thriller; Michael Jackson
-27; Die For You; The Weeknd
-28; Wait For U; Future Featuring Drake & Tems
-29; Something In The Orange; Zach Bryan
-30; Titi Me Pregunto; Bad Bunny
-31; Cuff It; Beyonce
-32; Question...?; Taylor Swift
-33; About Damn Time; Lizzo
-34; Late Night Talking; Harry Styles
-35; Tomorrow 2; GloRilla & Cardi B
-36; The Kind Of Love We Make; Luke Combs
-37; She Had Me At Heads Carolina; Cole Swindell
-38; Mastermind; Taylor Swift
-39; Unstoppable; Sia
-40; Hold Me Closer; Elton John & Britney Spears
-41; Me Porto Bonito; Bad Bunny & Chencho Corleone
-42; Labyrinth; Taylor Swift
-43; Thank God; Kane Brown With Katelyn Brown
-44; 5 Foot 9; Tyler Hubbard
-45; Sweet Nothing; Taylor Swift
-46; Golden Hour; JVKE
-47; Monster Mash; Bobby "Boris" Pickett And The Crypt-Kickers
-48; Just Wanna Rock; Lil Uzi Vert
-49; Ghostbusters; Ray Parker Jr.
-50; Fall In Love; Bailey Zimmerman
-51; The Astronaut; JIN
-52; Half Of Me; Thomas Rhett Featuring Riley Green
-53; Until I Found You; Stephen Sanchez
-54; Rock And A Hard Place; Bailey Zimmerman
-55; California Breeze; Lil Baby
-56; Victoria’s Secret; Jax
-57; Son Of A Sinner; Jelly Roll
-58; What My World Spins Around; Jordan Davis
-59; Would've, Could've, Should've; Taylor Swift
-60; Star Walkin' (League Of Legends Worlds Anthem); Lil Nas X
-61; Heyy; Lil Baby
-62; Music For A Sushi Restaurant; Harry Styles
-63; Made You Look; Meghan Trainor
-64; Forever; Lil Baby Featuring Fridayy
-65; Romantic Homicide; d4vd
-66; Don't Come Lookin'; Jackson Dean
-67; Wishful Drinking; Ingrid Andress With Sam Hunt
-68; Bigger Than The Whole Sky; Taylor Swift
-69; Free Mind; Tems
-70; No Se Va; Grupo Frontera
-71; The Great War; Taylor Swift
-72; Billie Eilish.; Armani White
-73; Paris; Taylor Swift
-74; Whiskey On You; Nate Smith
-75; All Mine; Brent Faiyaz
-76; Wait In The Truck; HARDY Featuring Lainey Wilson
-77; Monotonia; Shakira + Ozuna
-78; Hotel Lobby (Unc And Phew); Quavo & Takeoff
-79; High Infidelity; Taylor Swift
-80; 2 Be Loved (Am I Ready); Lizzo
-81; Staying Alive; DJ Khaled Featuring Drake & Lil Baby
-82; Real Spill; Lil Baby
-83; Last Last; Burna Boy
-84; Miss You; Oliver Tree & Robin Schulz
-85; Never Hating; Lil Baby & Young Thug
-86; Glitch; Taylor Swift
-87; Freestyle; Lil Baby
+2; Rich Flex; Drake & 21 Savage
+3; Major Distribution; Drake & 21 Savage
+4; On BS; Drake & 21 Savage
+5; Spin Bout U; Drake & 21 Savage
+6; Pussy & Millions; Drake & 21 Savage Featuring Travis Scott
+7; Privileged Rappers; Drake & 21 Savage
+8; Circo Loco; Drake & 21 Savage
+9; BackOutsideBoyz; Drake
+10; Unholy; Sam Smith & Kim Petras
+11; Hours In Silence; Drake & 21 Savage
+12; Broke Boys; Drake & 21 Savage
+13; Bad Habit; Steve Lacy
+14; Treacherous Twins; Drake & 21 Savage
+15; Middle Of The Ocean; Drake
+16; Jumbotron Shit Poppin; Drake
+17; As It Was; Harry Styles
+18; More M’s; Drake & 21 Savage
+19; I Guess It's Fuck Me; Drake
+20; I'm Good (Blue); David Guetta & Bebe Rexha
+21; Super Freaky Girl; Nicki Minaj
+22; Lift Me Up; Rihanna
+23; Lavender Haze; Taylor Swift
+24; I Like You (A Happier Song); Post Malone Featuring Doja Cat
+25; You Proof; Morgan Wallen
+26; Something In The Orange; Zach Bryan
+27; 3AM On Glenwood; 21 Savage
+28; I Ain't Worried; OneRepublic
+29; Vegas; Doja Cat
+30; Midnight Rain; Taylor Swift
+31; Jimmy Cooks; Drake Featuring 21 Savage
+32; Under The Influence; Chris Brown
+33; Bejeweled; Taylor Swift
+34; Die For You; The Weeknd
+35; Sunroof; Nicky Youre & dazy
+36; Maroon; Taylor Swift
+37; Wasted On You; Morgan Wallen
+38; Cuff It; Beyonce
+39; Karma; Taylor Swift
+40; Snow On The Beach; Taylor Swift Featuring Lana Del Rey
+41; Wait For U; Future Featuring Drake & Tems
+42; You're On Your Own, Kid; Taylor Swift
+43; Titi Me Pregunto; Bad Bunny
+44; Just Wanna Rock; Lil Uzi Vert
+45; The Kind Of Love We Make; Luke Combs
+46; Shirt; SZA
+47; She Had Me At Heads Carolina; Cole Swindell
+48; About Damn Time; Lizzo
+49; Tomorrow 2; GloRilla & Cardi B
+50; Unstoppable; Sia
+51; Vigilante Shit; Taylor Swift
+52; Thank God; Kane Brown With Katelyn Brown
+53; Die For You; Joji
+54; 5 Foot 9; Tyler Hubbard
+55; Hold Me Closer; Elton John & Britney Spears
+56; Question...?; Taylor Swift
+57; Golden Hour; JVKE
+58; Rock And A Hard Place; Bailey Zimmerman
+59; Fall In Love; Bailey Zimmerman
+60; Half Of Me; Thomas Rhett Featuring Riley Green
+61; Made You Look; Meghan Trainor
+62; Hotel Lobby (Unc And Phew); Quavo & Takeoff
+63; What My World Spins Around; Jordan Davis
+64; Until I Found You; Stephen Sanchez
+65; Mastermind; Taylor Swift
+66; Victoria’s Secret; Jax
+67; Labyrinth; Taylor Swift
+68; Star Walkin' (League Of Legends Worlds Anthem); Lil Nas X
+69; Son Of A Sinner; Jelly Roll
+70; Don't Come Lookin'; Jackson Dean
+71; Sweet Nothing; Taylor Swift
+72; Romantic Homicide; d4vd
+73; California Breeze; Lil Baby
+74; Billie Eilish.; Armani White
+75; Wait In The Truck; HARDY Featuring Lainey Wilson
+76; Would've, Could've, Should've; Taylor Swift
+77; Heyy; Lil Baby
+78; Wishful Drinking; Ingrid Andress With Sam Hunt
+79; Free Mind; Tems
+80; Music For A Sushi Restaurant; Harry Styles
+81; No Se Va; Grupo Frontera
+82; Whiskey On You; Nate Smith
+83; My Mind & Me; Selena Gomez
+84; Forever; Lil Baby Featuring Fridayy
+85; Bigger Than The Whole Sky; Taylor Swift
+86; All Mine; Brent Faiyaz
+87; The Great War; Taylor Swift
 88; Calm Down; Rema & Selena Gomez
-89; Stand On It; Lil Baby
-90; La Bachata; Manuel Turizo
-91; Gotta Move On; Diddy & Bryson Tiller
-92; Ain't Safe; Trippie Redd & Don Toliver
+89; Miss You; Oliver Tree & Robin Schulz
+90; Paris; Taylor Swift
+91; Last Last; Burna Boy
+92; Freestyle; Lil Baby
 93; Pick Me Up; Gabby Barrett
-94; Betty (Get Money); Yung Gravy
-95; Gatubela; Karol G x Maldy
-96; 300 Blackout; Kodak Black
-97; Dear Reader; Taylor Swift
-98; Country On; Luke Bryan
-99; Bzrp Music Sessions, Vol. 52; Bizarrap & Quevedo
-100; Evergreen; Omar Apollo
+94; In My Head; Juice WRLD
+95; Country On; Luke Bryan
+96; La Bachata; Manuel Turizo
+97; 2 Be Loved (Am I Ready); Lizzo
+98; High Infidelity; Taylor Swift
+99; Gotta Move On; Diddy & Bryson Tiller
+100; Staying Alive; DJ Khaled Featuring Drake & Lil Baby
