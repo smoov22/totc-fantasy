@@ -22,7 +22,8 @@ def sorter (filename):
             sorted.update ({options[len(options) - 1]:0})
         for item in sorted:
             print(item + " : " + str(sorted.get(item)))
-        # while there are any keys in the dictionary with the same value, find the highest value that at least two 
+        # recursive preference sort of all the 1's
+        # recursive preference sort of all the -1's
          
         
         
