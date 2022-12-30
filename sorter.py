@@ -20,9 +20,10 @@ def sorter (filename):
             i = i + 2
         if len(options) % 2 != 0:
             sorted.update ({options[len(options) - 1]:0})
+        
         for item in sorted:
             print(item + " : " + str(sorted.get(item)))
-        # recursive preference sort of all the 1's
+        
         # recursive preference sort of all the -1's
          
         
