@@ -176,10 +176,10 @@ public class Updater {
         players = playerPut(values, players, Players.FANSTAR, Artists.MORGANWALLEN, Artists.METRO, Artists.BEYONCE, Artists.HARDY, Artists.MEGHANTRAINOR); //done
         players = playerPut(values, players, Players.SKELLEZ, Artists.DRAKE, Artists.SHAKIRA, Artists.BAILEYZIMMERMAN, Artists.STEVELACY, Artists.JVKE);
         players = playerPut(values, players, Players.RAZOR, Artists.SZA, Artists.ZACHBRYAN, Artists.REXHA, Artists.CHARLIE, Artists.JOJI);
-        players = playerPut(values, players, Players.SMOOV, Artists.SAMSMITH, Artists.HARRYSTYLES, Artists.BIZARRAP, Artists.GUETTA, Artists.POSTMALONE);
+        players = playerPut(values, players, Players.SMOOV, Artists.SAMSMITH, Artists.HARRYSTYLES, Artists.BIZARRAP, Artists.GUETTA, Artists.RIHANNA);
         players = playerPut(values, players, Players.REBORN, Artists.WEEKND, Artists.DOJACAT, Artists.FUTURE, Artists.KIM, Artists.NICKI);
         players = playerPut(values, players, Players.DYNAH, Artists.TAYLORSWIFT, Artists.LILUZIVERT, Artists.CHRISBROWN, Artists.GRUPO, Artists.D4VD);
-        players = playerPut(values, players, Players.ALECKS, Artists.AVAMAX, Artists.KANEBROWN, Artists.LILNASX, Artists.RAYE, Artists.SANCHEZ);
+        players = playerPut(values, players, Players.ALECKS, Artists.LEWISCAPALDI, Artists.KANEBROWN, Artists.LILNASX, Artists.RAYE, Artists.SANCHEZ);
         players = playerPut(values, players, Players.GONZA, Artists.MILEY, Artists.TWENTYONESAVAGE, Artists.GLORILLA, Artists.LAINEY, Artists.SHAKE);
         /**
          * Creates a new export in which all players are in order from most to least points, then exports it
