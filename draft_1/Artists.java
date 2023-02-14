@@ -129,6 +129,7 @@ public enum Artists {
     TAKEOFF("Takeoff",1),
     JCOLE("J. Cole",1),
     NEWJEANS("NewJeans",1),
+    ICESPICE("Ice Spice",1),
     OLIVERTREE("Oliver Tree", 1);
 
 
