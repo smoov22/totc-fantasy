@@ -131,6 +131,7 @@ public enum Artists {
     NEWJEANS("NewJeans",1),
     ICESPICE("Ice Spice",1),
     PINKPANTHERESS ("PinkPantheress",1),
+    REMA("Rema", 1),
     OLIVERTREE("Oliver Tree", 1);
 
 
