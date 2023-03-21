@@ -180,7 +180,7 @@ public class Updater {
         players = playerPut(values, players, Players.REBORN, Artists.WEEKND, Artists.DOJACAT, Artists.FUTURE, Artists.KIM, Artists.LUKECOMBS);
         players = playerPut(values, players, Players.DYNAH, Artists.TAYLORSWIFT, Artists.LILUZIVERT, Artists.CHRISBROWN, Artists.GRUPO, Artists.JCOLE);
         players = playerPut(values, players, Players.ALECKS, Artists.LEWISCAPALDI, Artists.KANEBROWN, Artists.LILNASX, Artists.RAYE, Artists.SANCHEZ);
-        players = playerPut(values, players, Players.GONZA, Artists.MILEY, Artists.TWENTYONESAVAGE, Artists.KAROLG, Artists.LAINEY, Artists.SHAKE);
+        players = playerPut(values, players, Players.GONZA, Artists.MILEY, Artists.TWENTYONESAVAGE, Artists.KAROLG, Artists.LAINEY, Artists.SUPERSTAR);
         /**
          * Creates a new export in which all players are in order from most to least points, then exports it
          */

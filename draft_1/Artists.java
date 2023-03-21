@@ -132,6 +132,7 @@ public enum Artists {
     ICESPICE("Ice Spice",1),
     PINKPANTHERESS ("PinkPantheress",1),
     REMA("Rema", 1),
+    SUPERSTAR("Superstar Pride", 1),
     OLIVERTREE("Oliver Tree", 1);
 
 
