@@ -133,6 +133,9 @@ public enum Artists {
     PINKPANTHERESS ("PinkPantheress",1),
     REMA("Rema", 1),
     SUPERSTAR("Superstar Pride", 1),
+    COILERAY("Coi Leray",1),
+    PESO("Peso Pluma", 1),
+    TOOSII("Toosii", 1),
     OLIVERTREE("Oliver Tree", 1);
 
 
