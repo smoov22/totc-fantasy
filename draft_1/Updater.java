@@ -174,13 +174,13 @@ public class Updater {
             System.out.println("IO exception");
         }
         players = playerPut(values, players, Players.FANSTAR, Artists.MORGANWALLEN, Artists.METRO, Artists.REMA, Artists.PINKPANTHERESS, Artists.COILERAY); //done
-        players = playerPut(values, players, Players.SKELLEZ, Artists.DRAKE, Artists.SHAKIRA, Artists.BAILEYZIMMERMAN, Artists.SELENA, Artists.ARIANAGRANDE);
+        players = playerPut(values, players, Players.SKELLEZ, Artists.DRAKE, Artists.MIGUEL, Artists.BADBUNNY, Artists.SELENA, Artists.ARIANAGRANDE);
         players = playerPut(values, players, Players.RAZOR, Artists.SZA, Artists.ZACHBRYAN, Artists.REXHA, Artists.MEGAN, Artists.JOJI);
-        players = playerPut(values, players, Players.SMOOV, Artists.PESO, Artists.HARRYSTYLES, Artists.ICESPICE, Artists.GUETTA, Artists.TOOSII);
-        players = playerPut(values, players, Players.REBORN, Artists.WEEKND, Artists.DOJACAT, Artists.FUTURE, Artists.KIM, Artists.LUKECOMBS);
-        players = playerPut(values, players, Players.DYNAH, Artists.TAYLORSWIFT, Artists.LILUZIVERT, Artists.CHRISBROWN, Artists.TYLER, Artists.JCOLE);
-        players = playerPut(values, players, Players.ALECKS, Artists.LEWISCAPALDI, Artists.KANEBROWN, Artists.LILNASX, Artists.RAYE, Artists.SANCHEZ);
-        players = playerPut(values, players, Players.GONZA, Artists.MILEY, Artists.TWENTYONESAVAGE, Artists.KAROLG, Artists.LAINEY, Artists.SHAKE);
+        players = playerPut(values, players, Players.SMOOV, Artists.PESO, Artists.CANO, Artists.ICESPICE, Artists.ESLABON, Artists.TOOSII);
+        players = playerPut(values, players, Players.REBORN, Artists.WEEKND, Artists.HARRYSTYLES, Artists.FUTURE, Artists.NICKI, Artists.LUKECOMBS);
+        players = playerPut(values, players, Players.DYNAH, Artists.TAYLORSWIFT, Artists.LILUZIVERT, Artists.CHRISBROWN, Artists.GRUPO, Artists.JCOLE);
+        players = playerPut(values, players, Players.ALECKS, Artists.LEWISCAPALDI, Artists.KANEBROWN, Artists.LILNASX, Artists.RAYE, Artists.YOUNGBOY);
+        players = playerPut(values, players, Players.GONZA, Artists.MILEY, Artists.TWENTYONESAVAGE, Artists.TYLERHUBBARD, Artists.FIFTY, Artists.SHAKE);
         /**
          * Creates a new export in which all players are in order from most to least points, then exports it
          */

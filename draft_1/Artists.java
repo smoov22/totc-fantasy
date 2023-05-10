@@ -136,6 +136,11 @@ public enum Artists {
     COILERAY("Coi Leray",1),
     PESO("Peso Pluma", 1),
     TOOSII("Toosii", 1),
+    MIGUEL("Miguel", 1),
+    TYLERHUBBARD("Tyler Hubbard", 1),
+    FIFTY("Fifty Fifty", 1),
+    CANO("Natanael Cano", 1),
+    ESLABON("Eslabon Armado", 1),
     OLIVERTREE("Oliver Tree", 1);
 
 
