@@ -141,6 +141,7 @@ public enum Artists {
     FIFTY("Fifty Fifty", 1),
     CANO("Natanael Cano", 1),
     ESLABON("Eslabon Armado", 1),
+    KALI("Kali Uchis",1),
     OLIVERTREE("Oliver Tree", 1);
 
 
