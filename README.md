@@ -6,7 +6,6 @@ The league works as follows: At the beginning of the year, everyone involved pic
 
 Each week the Billboard Hot 100 is released, a Python script (labeled alt-formatter.py) turns the manually pulled data - Placement, Song Title, Artist, and Past Placements, in that order - into a readable list, which is then taken in by the Java updater via Jython. A Map is created of every artist's points to be distributed for the week. Meanwhile, an export of every player involved is re-imported with their current points, with them each receiving their points for the week and seeing a message as to how many points they gained that week. The export is rereleased with the standings updated.
 
-I may add functionality in the future, in essence allowing anyone to act as somewhat a "league manager" without manually importing every artist and player with multipliers. For now, the current way the league is run can be seen in the spreadsheet. 
-
+I may add functionality in the future, in essence allowing anyone to act as somewhat a "league manager" without manually importing every artist and player with multipliers. For now, the current way the league is run can be seen in the spreadsheet.
 
 NOTE: Songs and artists in the /hot100 folder and temp.txt may contain explicit language.
