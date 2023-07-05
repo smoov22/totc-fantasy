@@ -7,14 +7,14 @@ package draft_1;
  * @author Kyle Mullen, 2022
  */
 public enum Players {
-    SKELLEZ,
-    RAZOR,
-    SMOOV,
-    REBORN,
-    DYNAH,
-    ALECKS,
-    FANSTAR,
-    GONZA;
+    SCRUBS,
+    RIVER,
+    MATT,
+    LUIS,
+    IVY,
+    HIDBID,
+    BIGG,
+    SMOOV;
 
     public int points;
     /**

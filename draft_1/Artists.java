@@ -142,6 +142,13 @@ public enum Artists {
     CANO("Natanael Cano", 1),
     ESLABON("Eslabon Armado", 1),
     KALI("Kali Uchis",1),
+    JUNIORH("Junior H", 1),
+    GUCCI ("Gucci Mane", 1),
+    JUNGKOOK("Jungkook",1),
+    FUERZA("Fuerza Regida", 1),
+    GUNNA("Gunna", 1),
+    JELLY("Jelly Roll",1),
+    DOECHII("Doechii", 1),
     OLIVERTREE("Oliver Tree", 1);
 
 

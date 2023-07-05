@@ -173,14 +173,14 @@ public class Updater {
         } catch (IOException io) {
             System.out.println("IO exception");
         }
-        players = playerPut(values, players, Players.FANSTAR, Artists.MORGANWALLEN, Artists.METRO, Artists.REMA, Artists.PINKPANTHERESS, Artists.KALI); //done
-        players = playerPut(values, players, Players.SKELLEZ, Artists.LILDURK, Artists.MIGUEL, Artists.BADBUNNY, Artists.SELENA, Artists.ARIANAGRANDE);
-        players = playerPut(values, players, Players.RAZOR, Artists.SZA, Artists.ZACHBRYAN, Artists.REXHA, Artists.MEGAN, Artists.JOJI);
-        players = playerPut(values, players, Players.SMOOV, Artists.PESO, Artists.CANO, Artists.ICESPICE, Artists.ESLABON, Artists.TOOSII);
-        players = playerPut(values, players, Players.REBORN, Artists.WEEKND, Artists.HARRYSTYLES, Artists.FUTURE, Artists.NICKI, Artists.LUKECOMBS);
-        players = playerPut(values, players, Players.DYNAH, Artists.TAYLORSWIFT, Artists.LILUZIVERT, Artists.TRAVISSCOTT, Artists.GRUPO, Artists.JCOLE);
-        players = playerPut(values, players, Players.ALECKS, Artists.LEWISCAPALDI, Artists.KANEBROWN, Artists.LILNASX, Artists.RAYE, Artists.YOUNGBOY);
-        players = playerPut(values, players, Players.GONZA, Artists.MILEY, Artists.TWENTYONESAVAGE, Artists.TYLERHUBBARD, Artists.FIFTY, Artists.SHAKE);
+        players = playerPut(values, players, Players.SMOOV, Artists.MORGANWALLEN, Artists.METRO, Artists.SELENA, Artists.JCOLE, Artists.JUNIORH); //done
+        players = playerPut(values, players, Players.SCRUBS, Artists.PESO, Artists.LILUZIVERT, Artists.COILERAY, Artists.ZACHBRYAN, Artists.ARIANAGRANDE);
+        players = playerPut(values, players, Players.RIVER, Artists.GUCCI, Artists.WEEKND, Artists.TYLER, Artists.KANEBROWN, Artists.KALI);
+        players = playerPut(values, players, Players.MATT, Artists.DRAKE, Artists.FUTURE, Artists.YOUNGTHUG, Artists.TWENTYONESAVAGE, Artists.DUALIPA);
+        players = playerPut(values, players, Players.LUIS, Artists.OLIVIARODRIGO, Artists.LILNASX, Artists.SZA, Artists.POSTMALONE, Artists.JUNGKOOK);
+        players = playerPut(values, players, Players.IVY, Artists.FUERZA, Artists.BADBUNNY, Artists.ICESPICE, Artists.DOJACAT, Artists.LILBABY);
+        players = playerPut(values, players, Players.HIDBID, Artists.TRAVISSCOTT, Artists.LUKECOMBS, Artists.JELLY, Artists.GUNNA, Artists.TOOSII);
+        players = playerPut(values, players, Players.BIGG, Artists.TAYLORSWIFT, Artists.REMA, Artists.MILEY, Artists.DOECHII, Artists.KODAKBLACK);
         /**
          * Creates a new export in which all players are in order from most to least points, then exports it
          */
