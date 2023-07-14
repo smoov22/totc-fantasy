@@ -1,100 +1,100 @@
-1; Last Night; Morgan Wallen
-2; Fast Car; Luke Combs
-3; Calm Down; Rema & Selena Gomez
-4; Flowers; Miley Cyrus
-5; All My Life; Lil Durk Featuring J. Cole
-6; Favorite Song; Toosii
-7; Barbie World; Ice Spice & Nicki Minaj
-8; Karma; Taylor Swift Featuring Ice Spice
-9; Kill Bill; SZA
-10; Creepin'; Metro Boomin, The Weeknd & 21 Savage
-11; Snooze; SZA
-12; Fukumean; Gunna
-13; Cruel Summer; Taylor Swift
-14; Ella Baila Sola; Eslabon Armado X Peso Pluma
-15; Sure Thing; Miguel
-16; Anti-Hero; Taylor Swift
-17; Something In The Orange; Zach Bryan
-18; Need A Favor; Jelly Roll
-19; Oh U Went; Young Thug Featuring Drake
-20; Die For You; The Weeknd & Ariana Grande
+1; Vampire; Olivia Rodrigo
+2; Last Night; Morgan Wallen
+3; Fast Car; Luke Combs
+4; Calm Down; Rema & Selena Gomez
+5; Flowers; Miley Cyrus
+6; All My Life; Lil Durk Featuring J. Cole
+7; Cruel Summer; Taylor Swift
+8; Fukumean; Gunna
+9; Karma; Taylor Swift Featuring Ice Spice
+10; Favorite Song; Toosii
+11; Flooded The Face; Lil Uzi Vert
+12; Kill Bill; SZA
+13; Snooze; SZA
+14; Creepin'; Metro Boomin, The Weeknd & 21 Savage
+15; Ella Baila Sola; Eslabon Armado X Peso Pluma
+16; Sure Thing; Miguel
+17; Need A Favor; Jelly Roll
+18; Anti-Hero; Taylor Swift
+19; Something In The Orange; Zach Bryan
+20; Endless Fashion; Lil Uzi Vert Featuring Nicki Minaj
 21; You Proof; Morgan Wallen
-22; Thinkin' Bout Me; Morgan Wallen
-23; Next Thing You Know; Jordan Davis
+22; Die For You; The Weeknd & Ariana Grande
+23; Thinkin' Bout Me; Morgan Wallen
 24; Cupid; Fifty Fifty
-25; La Bebe; Yng Lvcas x Peso Pluma
-26; Sabor Fresa; Fuerza Regida
+25; Suicide Doors; Lil Uzi Vert
+26; La Bebe; Yng Lvcas x Peso Pluma
 27; Memory Lane; Old Dominion
-28; Un x100to; Grupo Frontera X Bad Bunny
-29; Chemical; Post Malone
-30; Luna; Peso Pluma & Junior H
-31; Dance The Night; Dua Lipa
-32; Religiously; Bailey Zimmerman
-33; I'm Good (Blue); David Guetta & Bebe Rexha
+28; Next Thing You Know; Jordan Davis
+29; Dance The Night; Dua Lipa
+30; Religiously; Bailey Zimmerman
+31; Aye; Lil Uzi Vert Featuring Travis Scott
+32; Un x100to; Grupo Frontera X Bad Bunny
+33; Thought You Should Know; Morgan Wallen
 34; Eyes Closed; Ed Sheeran
-35; Lady Gaga; Peso Pluma, Gabito Ballesteros & Junior H
-36; Search & Rescue; Drake
-37; Thought You Should Know; Morgan Wallen
-38; Where She Goes; Bad Bunny
-39; Parade On Cleveland; Young Thug Featuring Drake
-40; Dancin' In The Country; Tyler Hubbard
+35; Barbie World; Nicki Minaj & Ice Spice With Aqua
+36; I'm Good (Blue); David Guetta & Bebe Rexha
+37; Dancin' In The Country; Tyler Hubbard
+38; Search & Rescue; Drake
+39; Where She Goes; Bad Bunny
+40; Chemical; Post Malone
 41; Put It On Da Floor Again; Latto Featuring Cardi B
-42; Area Codes; Kali
-43; Boy's A Liar, Pt. 2; PinkPantheress & Ice Spice
-44; Bury Me In Georgia; Kane Brown
-45; Love You Anyway; Luke Combs
-46; TQM; Fuerza Regida
-47; Thank God; Kane Brown With Katelyn Brown
-48; Bye; Peso Pluma
-49; One Thing At A Time; Morgan Wallen
-50; Players; Coi Leray
-51; Stand By Me; Lil Durk Featuring Morgan Wallen
-52; Cars Bring Me Out; Young Thug Featuring Future
-53; Princess Diana; Ice Spice & Nicki Minaj
-54; VVS; Peso Pluma, Los Dareyes De La Sierra & Edgardo Nuñez
-55; Bzrp Music Sessions, Vol. 55; Bizarrap & Peso Pluma
-56; Wit Da Racks; Young Thug Featuring Travis Scott, 21 Savage & Yak Gotti
-57; Daylight; David Kushner
-58; Doomsday; Lyrical Lemonade, Juice WRLD & Cordae
-59; Want Me Dead; Young Thug Featuring 21 Savage
-60; Attention; Doja Cat
-61; Peaches & Eggplants; Young Nudy Featuring 21 Savage
-62; What It Is (Block Boy); Doechii Featuring Kodak Black
-63; Rubicon; Peso Pluma
-64; Back To The Moon; Gunna
-65; Your Heart Or Mine; Jon Pardi
-66; Calling; Metro Boomin, Swae Lee & NAV Featuring A Boogie Wit da Hoodie
-67; You, Me, & Whiskey; Justin Moore & Priscilla Block
-68; Waffle House; Jonas Brothers
-69; Mourning; Post Malone
-70; Hellcat Kenny; Young Thug Featuring Lil Uzi Vert
-71; TQG; Karol G x Shakira
-72; PRC; Peso Pluma X Natanael Cano
-73; Baby Don't Hurt Me; David Guetta, Anne-Marie & Coi Leray
-74; See You Again; Tyler, The Creator Featuring Kali Uchis
-75; Popular; The Weeknd, Playboi Carti & Madonna
-76; Por Las Noches; Peso Pluma
-77; Dial Drunk; Noah Kahan
-78; Money On The Dresser; Young Thug
-79; Annihilate; Metro Boomin, Swae Lee, Lil Wayne & Offset
-80; El Azul; Junior H x Peso Pluma
-81; Uncle M; Young Thug
-82; Cowgirls; Morgan Wallen Featuring ERNEST
-83; Rodeo Dr; Gunna
-84; Fight The Feeling; Rod Wave
-85; Self Love; Metro Boomin & Coi Leray
-86; Nueva Vida; Peso Pluma
-87; Fragil; Yahritza y Su Esencia x Grupo Frontera
-88; Bread & Butter; Gunna
-89; Watermelon Moonshine; Lainey Wilson
-90; Lagunas; Peso Pluma & Jasiel Nuñez
-91; Am I Dreaming; Metro Boomin, A$AP Rocky & Roisee
-92; Ain't That Some; Morgan Wallen
-93; Rosa Pastel; Peso Pluma & Jasiel Nunez
-94; Pound Town 2; Sexyy Red & Tay Keith & Nicki Minaj
-95; ICU; Coco Jones
-96; Jaded; Miley Cyrus
-97; Abracadabra; Young Thug Featuring Travis Scott
-98; Truck Bed; HARDY
+42; Sabor Fresa; Fuerza Regida
+43; Tulum; Peso Pluma & Grupo Frontera
+44; Boy's A Liar, Pt. 2; PinkPantheress & Ice Spice
+45; Bury Me In Georgia; Kane Brown
+46; Area Codes; Kali
+47; Love You Anyway; Luke Combs
+48; Lady Gaga; Peso Pluma, Gabito Ballesteros & Junior H
+49; I Gotta; Lil Uzi Vert
+50; Party In The U.S.A.; Miley Cyrus
+51; Spin Again; Lil Uzi Vert
+52; Crush Em; Lil Uzi Vert
+53; X2; Lil Uzi Vert
+54; TQM; Fuerza Regida
+55; Princess Diana; Ice Spice & Nicki Minaj
+56; Oh U Went; Young Thug Featuring Drake
+57; Mojabi Ghost; Tainy & Bad Bunny
+58; Stand By Me; Lil Durk Featuring Morgan Wallen
+59; Luna; Peso Pluma & Junior H
+60; Pluto To Mars; Lil Uzi Vert
+61; Bye; Peso Pluma
+62; Bzrp Music Sessions, Vol. 55; Bizarrap & Peso Pluma
+63; Peaches & Eggplants; Young Nudy Featuring 21 Savage
+64; Your Heart Or Mine; Jon Pardi
+65; Mama, I'm Sorry; Lil Uzi Vert
+66; What It Is (Block Boy); Doechii Featuring Kodak Black
+67; Amped; Lil Uzi Vert
+68; You, Me, & Whiskey; Justin Moore & Priscilla Block
+69; Daylight; David Kushner
+70; Patience; Lil Uzi Vert Featuring Don Toliver
+71; Nakamura; Lil Uzi Vert
+72; Baby Don't Hurt Me; David Guetta, Anne-Marie & Coi Leray
+73; TQG; Karol G x Shakira
+74; Popular; The Weeknd, Playboi Carti & Madonna
+75; Mourning; Post Malone
+76; All Alone; Lil Uzi Vert
+77; Rubicon; Peso Pluma
+78; Died And Came Back; Lil Uzi Vert
+79; Por Las Noches; Peso Pluma
+80; Attention; Doja Cat
+81; Werewolf; Lil Uzi Vert Featuring Bring Me The Horizon
+82; El Azul; Junior H x Peso Pluma
+83; Everything I Love; Morgan Wallen
+84; Cowgirls; Morgan Wallen Featuring ERNEST
+85; Waffle House; Jonas Brothers
+86; Pound Town 2; Sexyy Red & Tay Keith & Nicki Minaj
+87; Watermelon Moonshine; Lainey Wilson
+88; Calling; Metro Boomin, Swae Lee & NAV Featuring A Boogie Wit da Hoodie
+89; Fragil; Yahritza y Su Esencia x Grupo Frontera
+90; See You Again; Tyler, The Creator Featuring Kali Uchis
+91; Truck Bed; HARDY
+92; Zoom; Lil Uzi Vert
+93; That Fiya; Lil Uzi Vert
+94; We Didn't Start The Fire; Fall Out Boy
+95; Fight The Feeling; Rod Wave
+96; Ain't That Some; Morgan Wallen
+97; Lagunas; Peso Pluma & Jasiel Nunez
+98; Dial Drunk; Noah Kahan
 99; Save Me; Jelly Roll With Lainey Wilson
-100; Gucci Grocery Bag; Young Thug
+100; Jaded; Miley Cyrus
