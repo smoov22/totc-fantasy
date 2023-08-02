@@ -149,6 +149,10 @@ public enum Artists {
     GUNNA("Gunna", 1),
     JELLY("Jelly Roll",1),
     DOECHII("Doechii", 1),
+    NOAH("Noah Kahan",1),
+    AQUA("Aqua",1),
+    PARMALEE("Parmalee", 1),
+    ALDEAN("Jason Aldean",1),
     OLIVERTREE("Oliver Tree", 1);
 
 
