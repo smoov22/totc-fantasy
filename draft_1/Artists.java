@@ -87,7 +87,7 @@ public enum Artists {
     GABBYBARRETT("Gabby Barrett", 1),
     JORDANDAVIS("Jordan Davis",1),
     MEGHANTRAINOR("Meghan Trainor",1),
-    TRAVISSCOTT("Travis Scott", 2),
+    TRAVISSCOTT("Travis Scott", 1),
     RAUW("Rauw Alejandro", 1),
     HARDY("HARDY",1),
     SAMSMITH("Sam Smith", 1),
