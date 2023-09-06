@@ -186,7 +186,7 @@ public class Updater {
         players = playerPut(values, players, Players.ALECKS, Artists.AVAMAX, Artists.POSTMALONE, Artists.JUSTINBIEBER, Artists.WEEKND, Artists.DUALIPA); //done
         players = playerPut(values, players, Players.SCRUBS, Artists.KAROLG, Artists.OLIVIARODRIGO, Artists.TAYLORSWIFT, Artists.CARDIB, Artists.SZA); //done
         players = playerPut(values, players, Players.BACON, Artists.SAMSMITH, Artists.EDSHEERAN, Artists.RIHANNA, Artists.DOJACAT, Artists.HARRYSTYLES); //done
-        players = playerPut(values, players, Players.BIGG, Artists.SZA, Artists.MORGANWALLEN, Artists.CARDIB, Artists.OLIVIARODRIGO, Artists.NICKI); //done
+        players = playerPut(values, players, Players.MIKU, Artists.SZA, Artists.MORGANWALLEN, Artists.CARDIB, Artists.OLIVIARODRIGO, Artists.NICKI); //done
         players = playerPut(values, players, Players.LOST, Artists.OLIVIARODRIGO, Artists.DUALIPA, Artists.BAILEYZIMMERMAN, Artists.BEYONCE, Artists.RAUW); //done
         players = playerPut(values, players, Players.ZOEY, Artists.DUALIPA, Artists.DRAKE, Artists.DOJACAT, Artists.POSTMALONE, Artists.WEEKND); //done
         players = playerPut(values, players, Players.ZACH, Artists.DRAKE, Artists.SZA, Artists.EDSHEERAN, Artists.OLIVIARODRIGO, Artists.TAYLORSWIFT); //done

@@ -23,7 +23,7 @@ public enum Players {
     HIDBID,
     LOST,
     ZOEY,
-    BIGG,
+    MIKU,
     GOURMET,
     NIGHTBROWSER,
     BACON;
