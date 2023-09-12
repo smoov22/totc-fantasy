@@ -1,100 +1,100 @@
-1; I Remember Everything; Zach Bryan Featuring Kacey Musgraves
-2; Fast Car; Luke Combs
-3; Paint The Town Red; Doja Cat
-4; Last Night; Morgan Wallen
-5; Cruel Summer; Taylor Swift
-6; Rich Men North Of Richmond; Oliver Anthony Music
+1; Paint The Town Red; Doja Cat
+2; I Remember Everything; Zach Bryan Featuring Kacey Musgraves
+3; Fast Car; Luke Combs
+4; Cruel Summer; Taylor Swift
+5; Last Night; Morgan Wallen
+6; Dance The Night; Dua Lipa
 7; Snooze; SZA
-8; Used To Be Young; Miley Cyrus
-9; Dance The Night; Dua Lipa
-10; Fukumean; Gunna
-11; Calm Down; Rema & Selena Gomez
-12; Vampire; Olivia Rodrigo
-13; Barbie World; Nicki Minaj & Ice Spice With Aqua
-14; Hey Driver; Zach Bryan Featuring The War And Treaty
-15; Flowers; Miley Cyrus
-16; All My Life; Lil Durk Featuring J. Cole
-17; Spotless; Zach Bryan Featuring The Lumineers
-18; East Side Of Sorrow; Zach Bryan
-19; Single Soon; Selena Gomez
-20; Tourniquet; Zach Bryan
-21; Religiously; Bailey Zimmerman
-22; Overtime; Zach Bryan
-23; Summertime's Close; Zach Bryan
-24; Fear And Friday's; Zach Bryan
-25; Karma; Taylor Swift Featuring Ice Spice
-26; Need A Favor; Jelly Roll
-27; Kill Bill; SZA
-28; Seven; Jung Kook Featuring Latto
-29; Ticking; Zach Bryan
-30; What Was I Made For?; Billie Eilish
-31; El Dorado; Zach Bryan
-32; Anti-Hero; Taylor Swift
-33; Creepin'; Metro Boomin, The Weeknd & 21 Savage
-34; Thinkin' Bout Me; Morgan Wallen
-35; Bad Idea Right?; Olivia Rodrigo
-36; Meltdown; Travis Scott Featuring Drake
-37; Holy Roller; Zach Bryan Featuring Sierra Ferrell
-38; Smaller Acts; Zach Bryan
-39; Fear And Friday's (Poem); Zach Bryan
-40; Love You Anyway; Luke Combs
-41; Jake's Piano - Long Island; Zach Bryan
-42; Dial Drunk; Noah Kahan With Post Malone
-43; Qlona; Karol G & Peso Pluma
-44; Tradesman; Zach Bryan
-45; Try That In A Small Town; Jason Aldean
-46; Watermelon Moonshine; Lainey Wilson
-47; Oklahoman Son; Zach Bryan
-48; Cupid; Fifty Fifty
-49; I Know ?; Travis Scott
-50; Mi Ex Tenia Razon; Karol G
-51; Bury Me In Georgia; Kane Brown
-52; Daylight; David Kushner
-53; What It Is (Block Boy); Doechii Featuring Kodak Black
-54; LaLa; Myke Towers
-55; Telekinesis; Travis Scott Featuring SZA & Future
-56; Lady Gaga; Peso Pluma, Gabito Ballesteros & Junior H
-57; Un x100to; Grupo Frontera X Bad Bunny
-58; FE!N; Travis Scott Featuring Playboi Carti
-59; Peaches & Eggplants; Young Nudy Featuring 21 Savage
-60; Put It On Da Floor Again; Latto Featuring Cardi B
-61; Chemical; Post Malone
+8; Fukumean; Gunna
+9; Vampire; Olivia Rodrigo
+10; Calm Down; Rema & Selena Gomez
+11; Rich Men North Of Richmond; Oliver Anthony Music
+12; Barbie World; Nicki Minaj & Ice Spice With Aqua
+13; Flowers; Miley Cyrus
+14; All My Life; Lil Durk Featuring J. Cole
+15; Religiously; Bailey Zimmerman
+16; Used To Be Young; Miley Cyrus
+17; Hey Driver; Zach Bryan Featuring The War And Treaty
+18; Need A Favor; Jelly Roll
+19; Thinkin' Bout Me; Morgan Wallen
+20; Anti-Hero; Taylor Swift
+21; Kill Bill; SZA
+22; What Was I Made For?; Billie Eilish
+23; Last Time I Saw You; Nicki Minaj
+24; Karma; Taylor Swift Featuring Ice Spice
+25; Creepin'; Metro Boomin, The Weeknd & 21 Savage
+26; Bad Idea Right?; Olivia Rodrigo
+27; Meltdown; Travis Scott Featuring Drake
+28; Dial Drunk; Noah Kahan With Post Malone
+29; Tourniquet; Zach Bryan
+30; Try That In A Small Town; Jason Aldean
+31; Qlona; Karol G & Peso Pluma
+32; Love You Anyway; Luke Combs
+33; Watermelon Moonshine; Lainey Wilson
+34; I Know ?; Travis Scott
+35; Spotless; Zach Bryan Featuring The Lumineers
+36; Bury Me In Georgia; Kane Brown
+37; Seven; Jung Kook Featuring Latto
+38; Margaritaville; Jimmy Buffett
+39; Single Soon; Selena Gomez
+40; East Side Of Sorrow; Zach Bryan
+41; What It Is (Block Boy); Doechii Featuring Kodak Black
+42; Daylight; David Kushner
+43; Mi Ex Tenia Razon; Karol G
+44; LaLa; Myke Towers
+45; Cupid; Fifty Fifty
+46; Demons; Doja Cat
+47; Lady Gaga; Peso Pluma, Gabito Ballesteros & Junior H
+48; Fear And Friday's; Zach Bryan
+49; El Dorado; Zach Bryan
+50; Telekinesis; Travis Scott Featuring SZA & Future
+51; Peaches & Eggplants; Young Nudy Featuring 21 Savage
+52; Ticking; Zach Bryan
+53; Summertime's Close; Zach Bryan
+54; FE!N; Travis Scott Featuring Playboi Carti
+55; Overtime; Zach Bryan
+56; Come See Me; Rod Wave
+57; White Horse; Chris Stapleton
+58; Good Good; Usher, Summer Walker & 21 Savage
+59; Truck Bed; HARDY
+60; Deli; Ice Spice
+61; Que Onda; Calle 24 x Chino Pacas x Fuerza Regida
 62; Standing Room Only; Tim McGraw
-63; White Horse; Chris Stapleton
-64; Deli; Ice Spice
-65; Good Good; Usher, Summer Walker & 21 Savage
-66; Where She Goes; Bad Bunny
-67; K-POP; Travis Scott, Bad Bunny & The Weeknd
-68; Truck Bed; HARDY
-69; Princess Diana; Ice Spice & Nicki Minaj
-70; Tulum; Peso Pluma & Grupo Frontera
-71; Popular; The Weeknd, Playboi Carti & Madonna
-72; Your Heart Or Mine; Jon Pardi
-73; Everything I Love; Morgan Wallen
-74; Sabor Fresa; Fuerza Regida
+63; Smaller Acts; Zach Bryan
+64; Everything I Love; Morgan Wallen
+65; In Your Love; Tyler Childers
+66; Popular; The Weeknd, Playboi Carti & Madonna
+67; SkeeYee; Sexyy Red
+68; Put It On Da Floor Again; Latto Featuring Cardi B
+69; Holy Roller; Zach Bryan Featuring Sierra Ferrell
+70; Sabor Fresa; Fuerza Regida
+71; Tulum; Peso Pluma & Grupo Frontera
+72; Where She Goes; Bad Bunny
+73; Angels Don't Always Have Wings; Thomas Rhett
+74; K-POP; Travis Scott, Bad Bunny & The Weeknd
 75; Johnny Dang; That Mexican OT, Paul Wall & DRODi
-76; Dawns; Zach Bryan Featuring Maggie Rogers
-77; Angels Don't Always Have Wings; Thomas Rhett
-78; Shake Sumn; DaBaby
-79; Area Codes; Kaliii
-80; Sittin' On Top Of The World; Burna Boy
-81; Oh U Went; Young Thug Featuring Drake
-82; Lose Control; Teddy Swims
-83; In Your Love; Tyler Childers
-84; Save Me; Jelly Roll With Lainey Wilson
-85; Call Your Friends; Rod Wave
-86; S91; Karol G
-87; See You Again; Tyler, The Creator Featuring Kali Uchis
-88; Oklahoma Smoke Show; Zach Bryan
-89; Jaded; Miley Cyrus
-90; Amargura; Karol G
-91; TQM; Fuerza Regida
-92; Pretty Little Poison; Warren Zeiders
-93; Stand By Me; Lil Durk Featuring Morgan Wallen
-94; There I Go; Gucci Mane, J. Cole & Mike WiLL Made-It
-95; Super Shy; NewJeans
-96; Summer Too Hot; Chris Brown
-97; Primera Cita; Carin Leon
-98; On My Mama; Victoria Monet
-99; Girl In Mine; Parmalee
-100; Rubicon; Peso Pluma
+76; Oh U Went; Young Thug Featuring Drake
+77; Dawns; Zach Bryan Featuring Maggie Rogers
+78; Jake's Piano - Long Island; Zach Bryan
+79; Save Me; Jelly Roll With Lainey Wilson
+80; Oklahoma Smoke Show; Zach Bryan
+81; Lose Control; Teddy Swims
+82; Tradesman; Zach Bryan
+83; Shake Sumn; DaBaby
+84; Keep Going Up!; Timbaland, Nelly Furtado & Justin Timberlake
+85; Area Codes; Kaliii
+86; Sittin' On Top Of The World; Burna Boy
+87; Pretty Little Poison; Warren Zeiders
+88; Oklahoman Son; Zach Bryan
+89; TQM; Fuerza Regida
+90; See You Again; Tyler, The Creator Featuring Kali Uchis
+91; Amargura; Karol G
+92; Girl In Mine; Parmalee
+93; El Amor de Su Vida; Grupo Frontera & Grupo Firme
+94; Summer Too Hot; Chris Brown
+95; Rubicon; Peso Pluma
+96; Stand By Me; Lil Durk Featuring Morgan Wallen
+97; Call Your Friends; Rod Wave
+98; Your Heart Or Mine; Jon Pardi
+99; Primera Cita; Carin Leon
+100; S91; Karol G
