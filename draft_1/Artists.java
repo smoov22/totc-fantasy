@@ -73,6 +73,7 @@ public enum Artists {
     GIVEON ("Giveon", 1),
     KACEY("Kacey Musgraves",1),
     EDSHEERAN ("Ed Sheeran", 1),
+    YEAT("Yeat",1),
     BABYKEEM ("Baby Keem", 1),
     IMAGINEDRAGONS ("Imagine Dragons", 1),
     WILLOW ("Willow", 1),

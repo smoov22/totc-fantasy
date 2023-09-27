@@ -176,10 +176,10 @@ public class Updater {
         players = playerPut(values, players, Players.SMOOV, Artists.MORGANWALLEN, Artists.KACEY, Artists.SELENA, Artists.LAINEY, Artists.AQUA); //done
         players = playerPut(values, players, Players.SCRUBS, Artists.PESO, Artists.KAROLG, Artists.RODWAVE, Artists.ZACHBRYAN, Artists.NOAH);
         players = playerPut(values, players, Players.RIVER, Artists.PARMALEE, Artists.WEEKND, Artists.TYLER, Artists.KANEBROWN, Artists.KALI);
-        players = playerPut(values, players, Players.MATT, Artists.DRAKE, Artists.FUTURE, Artists.BILLIE, Artists.TWENTYONESAVAGE, Artists.DUALIPA);
-        players = playerPut(values, players, Players.LUIS, Artists.OLIVIARODRIGO, Artists.LILNASX, Artists.SZA, Artists.POSTMALONE, Artists.POLOG);
+        players = playerPut(values, players, Players.MATT, Artists.DRAKE, Artists.FUTURE, Artists.YOUNGTHUG, Artists.TWENTYONESAVAGE, Artists.YEAT);
+        players = playerPut(values, players, Players.LUIS, Artists.OLIVIARODRIGO, Artists.LILNASX, Artists.SZA, Artists.EDSHEERAN, Artists.JUNGKOOK);
         players = playerPut(values, players, Players.IVY, Artists.FUERZA, Artists.BADBUNNY, Artists.ICESPICE, Artists.DOJACAT, Artists.OLIVERANTHONY);
-        players = playerPut(values, players, Players.HIDBID, Artists.TRAVISSCOTT, Artists.LUKECOMBS, Artists.JELLY, Artists.GUNNA, Artists.NEWJEANS);
+        players = playerPut(values, players, Players.HIDBID, Artists.TRAVISSCOTT, Artists.LUKECOMBS, Artists.JELLY, Artists.GUNNA, Artists.BAILEYZIMMERMAN);
         players = playerPut(values, players, Players.BIGG, Artists.TAYLORSWIFT, Artists.REMA, Artists.MILEY, Artists.NICKI, Artists.LILDURK);
         /**
          * Creates a new export in which all players are in order from most to least points, then exports it
