@@ -173,10 +173,10 @@ public class Updater {
         } catch (IOException io) {
             System.out.println("IO exception");
         }
-        players = playerPut(values, players, Players.SMOOV, Artists.MORGANWALLEN, Artists.KACEY, Artists.SELENA, Artists.LAINEY, Artists.AQUA); //done
-        players = playerPut(values, players, Players.SCRUBS, Artists.PESO, Artists.KAROLG, Artists.RODWAVE, Artists.ZACHBRYAN, Artists.NOAH);
-        players = playerPut(values, players, Players.RIVER, Artists.PARMALEE, Artists.WEEKND, Artists.TYLER, Artists.KANEBROWN, Artists.KALI);
-        players = playerPut(values, players, Players.MATT, Artists.DRAKE, Artists.FUTURE, Artists.YOUNGTHUG, Artists.TWENTYONESAVAGE, Artists.YEAT);
+        players = playerPut(values, players, Players.SMOOV, Artists.MORGANWALLEN, Artists.KACEY, Artists.JCOLE, Artists.LAINEY, Artists.TATE); //done
+        players = playerPut(values, players, Players.SCRUBS, Artists.PESO, Artists.RED, Artists.RODWAVE, Artists.ZACHBRYAN, Artists.NOAH);
+        players = playerPut(values, players, Players.RIVER, Artists.PARMALEE, Artists.WEEKND, Artists.TYLER, Artists.KANEBROWN, Artists.DUSTIN);
+        players = playerPut(values, players, Players.MATT, Artists.DRAKE, Artists.DUALIPA, Artists.MITSKI, Artists.TWENTYONESAVAGE, Artists.YEAT);
         players = playerPut(values, players, Players.LUIS, Artists.OLIVIARODRIGO, Artists.LILNASX, Artists.SZA, Artists.EDSHEERAN, Artists.JUNGKOOK);
         players = playerPut(values, players, Players.IVY, Artists.FUERZA, Artists.BADBUNNY, Artists.ICESPICE, Artists.DOJACAT, Artists.OLIVERANTHONY);
         players = playerPut(values, players, Players.HIDBID, Artists.TRAVISSCOTT, Artists.LUKECOMBS, Artists.JELLY, Artists.GUNNA, Artists.BAILEYZIMMERMAN);
