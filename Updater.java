@@ -120,7 +120,7 @@ public class Updater {
         players.put(player.toString(), pointer);
         player.setPoints(players.get(player.toString()));
         int newer = player.points - total;
-        System.out.println(player.toString() + " gained " + newer + " points this week.");
+        System.out.println("@" + player.toString() + " gained " + newer + " points this week.");
         return players;
     }
 
@@ -170,28 +170,38 @@ public class Updater {
         } catch (IOException io) {
             System.out.println("IO exception");
         }
-        players = playerPut(values, players, Players.HIDBID, Artists.MARIAHCAREY, Artists.YOUNGBOY, Artists.BAILEYZIMMERMAN, Artists.DRAKE, Artists.MEGHANTRAINOR); //done
-        players = playerPut(values, players, Players.IVY, Artists.LILBABY, Artists.OLIVIARODRIGO, Artists.LILUZIVERT, Artists.DUALIPA, Artists.EDSHEERAN); //done
-        players = playerPut(values, players, Players.FANSTAR, Artists.HARDY, Artists.BAILEYZIMMERMAN, Artists.MORGANWALLEN, Artists.LILUZIVERT, Artists.DRAKE); //done
-        players = playerPut(values, players, Players.LUIS, Artists.LILNASX, Artists.MARIAHCAREY, Artists.BTS, Artists.DRAKE, Artists.MANESKIN); //done
-        players = playerPut(values, players, Players.TURNOFTHETV, Artists.TAYLORSWIFT, Artists.GABBYBARRETT, Artists.JORDANDAVIS, Artists.MEGHANTRAINOR, Artists.FUTURE); //done
-        players = playerPut(values, players, Players.KIKA, Artists.TRAVISSCOTT, Artists.BEYONCE, Artists.OLIVIARODRIGO, Artists.LILUZIVERT, Artists.DUALIPA); //done
-        players = playerPut(values, players, Players.OCEANIC, Artists.OLIVIARODRIGO, Artists.LILUZIVERT, Artists.TRAVISSCOTT, Artists.HARDY, Artists.NICKI); //done
-        players = playerPut(values, players, Players.LIGHTNINGMATT, Artists.BAILEYZIMMERMAN, Artists.EDSHEERAN, Artists.SZA, Artists.YOUNGBOY, Artists.TWENTYONESAVAGE); //done
-        players = playerPut(values, players, Players.SKELLEZ,Artists.BADBUNNY, Artists.FUTURE, Artists.EDSHEERAN, Artists.DRAKE, Artists.KAROLG); //done
-        players = playerPut(values, players, Players.ROADRUNNER, Artists.OLIVIARODRIGO, Artists.STEVELACY, Artists.SZA, Artists.MORGANWALLEN, Artists.ZACHBRYAN); //done
-        players = playerPut(values, players, Players.ARG, Artists.IVE, Artists.TWICE, Artists.FRANKOCEAN, Artists.ZACHBRYAN, Artists.BEYONCE); //done
-        players = playerPut(values, players, Players.REBORN, Artists.WEEKND, Artists.DRAKE, Artists.MORGANWALLEN, Artists.SAMSMITH, Artists.LILUZIVERT); //done
-        players = playerPut(values, players, Players.ALISON, Artists.RIHANNA, Artists.BAILEYZIMMERMAN, Artists.DUALIPA, Artists.LILBABY, Artists.ARIANAGRANDE); //done
-        players = playerPut(values, players, Players.ALECKS, Artists.AVAMAX, Artists.POSTMALONE, Artists.JUSTINBIEBER, Artists.WEEKND, Artists.DUALIPA); //done
-        players = playerPut(values, players, Players.SCRUBS, Artists.KAROLG, Artists.OLIVIARODRIGO, Artists.TAYLORSWIFT, Artists.CARDIB, Artists.SZA); //done
-        players = playerPut(values, players, Players.BACON, Artists.SAMSMITH, Artists.EDSHEERAN, Artists.RIHANNA, Artists.DOJACAT, Artists.HARRYSTYLES); //done
-        players = playerPut(values, players, Players.MIKU, Artists.SZA, Artists.MORGANWALLEN, Artists.CARDIB, Artists.OLIVIARODRIGO, Artists.NICKI); //done
-        players = playerPut(values, players, Players.LOST, Artists.OLIVIARODRIGO, Artists.DUALIPA, Artists.BAILEYZIMMERMAN, Artists.BEYONCE, Artists.RAUW); //done
-        players = playerPut(values, players, Players.ZOEY, Artists.DUALIPA, Artists.DRAKE, Artists.DOJACAT, Artists.POSTMALONE, Artists.WEEKND); //done
-        players = playerPut(values, players, Players.ZACH, Artists.DRAKE, Artists.SZA, Artists.EDSHEERAN, Artists.OLIVIARODRIGO, Artists.TAYLORSWIFT); //done
-        players = playerPut(values, players, Players.GOURMET, Artists.DUALIPA, Artists.MORGANWALLEN, Artists.CARDIB, Artists.LUKECOMBS, Artists.KIM); //done
-        players = playerPut(values, players, Players.NIGHTBROWSER, Artists.RIHANNA, Artists.TWENTYONESAVAGE, Artists.ARIANAGRANDE, Artists.DUALIPA, Artists.CARDIB); //done
+        players = playerPut(values, players, Players._baconpancake_, Artists.ARIANAGRANDE, Artists.DUALIPA, Artists.LILNASX, Artists.TAYLORSWIFT, Artists.DRAKE);
+players = playerPut(values, players, Players._huggies_, Artists.TAYLORSWIFT, Artists.JACKHARLOW, Artists.ARIANAGRANDE, Artists.TRAVISSCOTT, Artists.MORGANWALLEN);
+players = playerPut(values, players, Players.anthonymemedrano, Artists.XAVI, Artists.ARIANAGRANDE, Artists.MORGANWALLEN, Artists.FLOMILLI, Artists.SAVAGE);
+players = playerPut(values, players, Players.arandomguyx, Artists.KALIUCHIS, Artists.PESOPLUMA, Artists.FRANKOCEAN, Artists.AESPA, Artists.CHRISSTAPLETON);
+players = playerPut(values, players, Players.ayenhatestypos, Artists.DRAKE, Artists.TAYLORSWIFT, Artists.JACKHARLOW, Artists.ATEEZ, Artists.ARIANAGRANDE);
+players = playerPut(values, players, Players.BigMassiveJake , Artists.ARIANAGRANDE, Artists.EMINEM, Artists.TAYLORSWIFT, Artists.BILLIEEILISH, Artists.JCOLE);
+players = playerPut(values, players, Players.coalinthemine, Artists.HARRYSTYLES, Artists.LAINEYWILSON, Artists.LUKECOMBS, Artists.MORGANWALLEN, Artists.SAVAGE);
+players = playerPut(values, players, Players.eaglegamer, Artists.ARIANAGRANDE, Artists.TAYLORSWIFT, Artists.DOJACAT, Artists.KANEBROWN, Artists.KACEYMUSGRAVES);
+players = playerPut(values, players, Players.eli_is, Artists.KENYAGRACE, Artists.ARIANAGRANDE, Artists.LUKECOMBS, Artists.SABRINACARPENTER, Artists.XAVI);
+players = playerPut(values, players, Players.elixxxir, Artists.TAYLORSWIFT, Artists.SAVAGE, Artists.NOAHKAHAN, Artists.MORGANWALLEN, Artists.DRAKE);
+players = playerPut(values, players, Players.fanstar1, Artists.SAVAGE, Artists.MORGANWALLEN, Artists.XAVI, Artists.JELLYROLL, Artists.DUALIPA);
+players = playerPut(values, players, Players.gonza90, Artists.PESOPLUMA, Artists.CHRISSTAPLETON, Artists.BILLIEEILISH, Artists.MITSKI, Artists.JELLYROLL);
+players = playerPut(values, players, Players.haharama, Artists.JENNIE, Artists.JCOLE, Artists.SUMMERWALKER, Artists.JELLYROLL, Artists.DRAKE);
+players = playerPut(values, players, Players.hidbid, Artists.JID, Artists.KACEYMUSGRAVES, Artists.THEWEEKND, Artists.KALIUCHIS, Artists.JUNIORH);
+players = playerPut(values, players, Players.kanubow, Artists.ZACHBRYAN, Artists.NOAHKAHAN, Artists.DRAKE, Artists.ARIANAGRANDE, Artists.TAYLORSWIFT);
+players = playerPut(values, players, Players.karmaismybestie , Artists.MORGANWALLEN, Artists.TAYLORSWIFT, Artists.ARIANAGRANDE, Artists.DRAKE, Artists.DOJACAT);
+players = playerPut(values, players, Players.lightningmatt, Artists.ZACHBRYAN, Artists.DRAKE, Artists.DUALIPA, Artists.TAYLORSWIFT, Artists.TATEMCRAE);
+players = playerPut(values, players, Players.maxisboxedin, Artists.ZACHBRYAN, Artists.ARIANAGRANDE, Artists.SAVAGE, Artists.DUALIPA, Artists.MORGANWALLEN);
+players = playerPut(values, players, Players.night_browser, Artists.JACKHARLOW, Artists.SAVAGE, Artists.NOAHKAHAN, Artists.XAVI, Artists.TAYLORSWIFT);
+players = playerPut(values, players, Players.roadrunner_, Artists.PLAYBOICARTI, Artists.XAVI, Artists.PESOPLUMA, Artists.ZACHBRYAN, Artists.METROBOOMIN);
+players = playerPut(values, players, Players.satsuki4, Artists.FUERZAREGIDA, Artists.TRAVISSCOTT, Artists.ICESPICE, Artists.DUALIPA, Artists.LUKECOMBS);
+players = playerPut(values, players, Players.skellez, Artists.DRAKE, Artists.PESOPLUMA, Artists.METROBOOMIN, Artists.BADBUNNY, Artists.NEWJEANS);
+players = playerPut(values, players, Players.smoov22, Artists.XAVI, Artists.LUKECOMBS, Artists.JCOLE, Artists.METROBOOMIN, Artists.ZACHBRYAN);
+players = playerPut(values, players, Players.tatecarpenter, Artists.TAYLORSWIFT, Artists.ARIANAGRANDE, Artists.DUALIPA, Artists.DOJACAT, Artists.JACKHARLOW);
+players = playerPut(values, players, Players.thekosek, Artists.JCOLE, Artists.TAYLORSWIFT, Artists.THEWEEKND, Artists.KANEBROWN, Artists.LILBABY);
+players = playerPut(values, players, Players.theocdave, Artists.PESOPLUMA, Artists.JACKHARLOW, Artists.NOAHKAHAN, Artists.THEWEEKND, Artists.JESSIEMURPH);
+players = playerPut(values, players, Players.tokidokii, Artists.TAYLORSWIFT, Artists.THEWEEKND, Artists.NOAHKAHAN, Artists.DUALIPA, Artists.NEWJEANS);
+players = playerPut(values, players, Players.trex821, Artists.SIA, Artists.RIHANNA, Artists.CARDIB, Artists.TAYLORSWIFT, Artists.SZA);
+players = playerPut(values, players, Players.turnofthetv, Artists.TEEGRIZZLY, Artists.ZACHBRYAN, Artists.NOAHKAHAN, Artists.GRUPOFRONTERA, Artists.RILEYGREEN);
+players = playerPut(values, players, Players.canisservum, Artists.PLAYBOICARTI, Artists.FRANKOCEAN, Artists.NETTSPEND, Artists.TVGIRL, Artists.PHOEBEBRIDGERS);
+players = playerPut(values, players, Players.wanegbt, Artists.KATYPERRY, Artists.JELLYROLL, Artists.KALIUCHIS, Artists.FLOMILLI, Artists.SZA);
+players = playerPut(values, players, Players.xylotovisions, Artists.COLDPLAY, Artists.THEWEEKND, Artists.NOAHKAHAN, Artists.SAVAGE, Artists.XAVI);
         /**
          * Creates a new export in which all players are in order from most to least points, then exports it
          */

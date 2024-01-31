@@ -1,100 +1,100 @@
-1; All I Want For Christmas Is You; Mariah Carey
-2; Rockin' Around The Christmas Tree; Brenda Lee
-3; Jingle Bell Rock; Bobby Helms
-4; Last Christmas; Wham!
-5; A Holly Jolly Christmas; Burl Ives
-6; Lovin On Me; Jack Harlow
-7; It's The Most Wonderful Time Of The Year; Andy Williams
-8; Sleigh Ride; The Ronettes
-9; Greedy; Tate McRae
-10; Let It Snow, Let It Snow, Let It Snow!; Dean Martin
-11; Underneath The Tree; Kelly Clarkson
-12; Feliz Navidad; Jose Feliciano
-13; Cruel Summer; Taylor Swift
-14; Santa Tell Me; Ariana Grande
-15; The Christmas Song (Merry Christmas To You); Nat King Cole
-16; Snooze; SZA
-17; Paint The Town Red; Doja Cat
-18; Christmas (Baby Please Come Home); Darlene Love
-19; It's Beginning To Look A Lot Like Christmas; Michael Buble
-20; Jingle Bells; Frank Sinatra With Orchestra Conducted By Gordon Jenkins
-21; Water; Tyla
-22; I Remember Everything; Zach Bryan Featuring Kacey Musgraves
-23; White Christmas; Bing Crosby With Ken Darby Singers & John Scott Trotter & His Orchestra
-24; It's Beginning To Look A Lot Like Christmas; Perry Como And The Fontane Sisters With Mitchell Ayres And His Orchestra
-25; Here Comes Santa Claus (Right Down Santa Claus Lane); Gene Autry
-26; Everybody; Nicki Minaj Featuring Lil Uzi Vert
-27; Blue Christmas; Elvis Presley
-28; Deck The Halls; Nat King Cole
-29; Last Night; Morgan Wallen
-30; Agora Hills; Doja Cat
-31; Santa Baby; Eartha Kitt With Henri Rene And His Orchestra
-32; Thinkin' Bout Me; Morgan Wallen
-33; Rudolph The Red-Nosed Reindeer; Gene Autry & The Pinafores
-34; Needle; Nicki Minaj Featuring Drake
-35; Wonderful Christmastime; Paul McCartney
-36; Is It Over Now? (Taylor's Version) [From The Vault]; Taylor Swift
-37; Santa Claus Is Comin' To Town; Jackson 5
-38; Run Rudolph Run; Chuck Berry
-39; Fast Car; Luke Combs
-40; Little Saint Nick; The Beach Boys
-41; You're A Mean One, Mr. Grinch; Thurl Ravenscroft
-42; FTCU; Nicki Minaj
-43; Lil Boo Thang; Paul Russell
-44; Rich Baby Daddy; Drake Featuring Sexyy Red & SZA
-45; Please Come Home For Christmas; Eagles
-46; Like It's Christmas; Jonas Brothers
-47; Lose Control; Teddy Swims
-48; Need A Favor; Jelly Roll
-49; Happy Holiday / The Holiday Season; Andy Williams
-50; Fukumean; Gunna
-51; First Person Shooter; Drake Featuring J. Cole
-52; Used To Be Young; Miley Cyrus
-53; What Was I Made For?; Billie Eilish
-54; Stick Season; Noah Kahan
-55; White Horse; Chris Stapleton
-56; Good Good; Usher, Summer Walker & 21 Savage
-57; Exes; Tate McRae
-58; Barbie Dangerous; Nicki Minaj
-59; Houdini; Dua Lipa
-60; Are You Gone Already; Nicki Minaj
-61; My Love Mine All Mine; Mitski
-62; World On Fire; Nate Smith
-63; Let Me Calm Down; Nicki Minaj Featuring J. Cole
-64; Beep Beep; Nicki Minaj
-65; I Know ?; Travis Scott
-66; IDGAF; Drake Featuring Yeat
-67; Monaco; Bad Bunny
-68; You're Losing Me (From The Vault); Taylor Swift
-69; Run For The Hills; Tate McRae
-70; On My Mama; Victoria Monet
-71; Pretty Little Poison; Warren Zeiders
-72; Surround Sound; JID Featuring 21 Savage & Baby Tate
-73; Big Difference; Nicki Minaj
-74; Fallin 4 U; Nicki Minaj
-75; Everything I Love; Morgan Wallen
-76; Harley Quinn; Fuerza Regida & Marshmello
-77; Wild Ones; Jessie Murph & Jelly Roll
-78; Strangers; Kenya Grace
-79; Get Him Back!; Olivia Rodrigo
-80; RNB; Nicki Minaj Featuring Lil Wayne & Tate Kobang
-81; 500lbs; Lil Tecca
-82; Pink Friday Girls; Nicki Minaj
-83; You Broke My Heart; Drake
-84; Can't Catch Me Now; Olivia Rodrigo
-85; Truck Bed; HARDY
-86; Qlona; Karol G & Peso Pluma
-87; Cowgirl; Nicki Minaj Featuring Lourdiz
-88; The Painter; Cody Johnson
-89; Pink Birthday; Nicki Minaj
-90; Where The Wild Things Are; Luke Combs
-91; Segun Quien; Maluma & Carin Leon
-92; Que Onda; Calle 24 x Chino Pacas x Fuerza Regida
-93; Burn It Down; Parker McCollum
-94; Feather; Sabrina Carpenter
-95; Bahm Bahm; Nicki Minaj
-96; Save Me The Trouble; Dan + Shay
-97; Hey Driver; Zach Bryan Featuring The War And Treaty
-98; Virginia Beach; Drake
-99; Standing Next To You; Jung Kook
-100; Can't Have Mine; Dylan Scott
+1; Lovin On Me; Jack Harlow
+2; Cruel Summer; Taylor Swift
+3; Greedy; Tate McRae
+4; Lose Control; Teddy Swims
+5; I Remember Everything; Zach Bryan Featuring Kacey Musgraves
+6; Yes, And?; Ariana Grande
+7; Agora Hills; Doja Cat
+8; Paint The Town Red; Doja Cat
+9; Snooze; SZA
+10; Redrum; 21 Savage
+11; Water; Tyla
+12; Last Night; Morgan Wallen
+13; Stick Season; Noah Kahan
+14; Thinkin' Bout Me; Morgan Wallen
+15; Beautiful Things; Benson Boone
+16; Fast Car; Luke Combs
+17; Is It Over Now? (Taylor's Version) [From The Vault]; Taylor Swift
+18; White Horse; Chris Stapleton
+19; Never Lose Me; Flo Milli
+20; La Diabla; Xavi
+21; Rich Baby Daddy; Drake Featuring Sexyy Red & SZA
+22; Igual Que Un Angel; Kali Uchis & Peso Pluma
+23; What Was I Made For?; Billie Eilish
+24; Everybody; Nicki Minaj Featuring Lil Uzi Vert
+25; Houdini; Dua Lipa
+26; Pretty Little Poison; Warren Zeiders
+27; Flowers; Miley Cyrus
+28; Lil Boo Thang; Paul Russell
+29; FTCU; Nicki Minaj
+30; Nee-nah; 21 Savage, Travis Scott & Metro Boomin
+31; Where The Wild Things Are; Luke Combs
+32; Fukumean; Gunna
+33; Need A Favor; Jelly Roll
+34; First Person Shooter; Drake Featuring J. Cole
+35; Wild Ones; Jessie Murph & Jelly Roll
+36; Dance The Night; Dua Lipa
+37; Feather; Sabrina Carpenter
+38; Vampire; Olivia Rodrigo
+39; World On Fire; Nate Smith
+40; My Love Mine All Mine; Mitski
+41; Surround Sound; JID Featuring 21 Savage & Baby Tate
+42; Good Good; Usher, Summer Walker & 21 Savage
+43; Save Me; Jelly Roll With Lainey Wilson
+44; Made For Me; Muni Long
+45; Strangers; Kenya Grace
+46; La Victima; Xavi
+47; Exes; Tate McRae
+48; Truck Bed; HARDY
+49; On My Mama; Victoria Monet
+50; The Painter; Cody Johnson
+51; Murder On The Dancefloor; Sophie Ellis-Bextor
+52; N.H.I.E.; 21 Savage & Doja Cat
+53; Bellakeo; Peso Pluma & Anitta
+54; Get Him Back!; Olivia Rodrigo
+55; All Of Me; 21 Savage
+56; Harley Quinn; Fuerza Regida & Marshmello
+57; Prove It; 21 Savage & Summer Walker
+58; No Caller ID; Megan Moroney
+59; Burn It Down; Parker McCollum
+60; You Broke My Heart; Drake
+61; Soak City; 310babii
+62; Act II: Date @ 8; 4Batz
+63; Should've Wore A Bonnet; 21 Savage & Brent Faiyaz
+64; IDGAF; Drake Featuring Yeat
+65; 500lbs; Lil Tecca
+66; Monaco; Bad Bunny
+67; One Of The Girls; The Weeknd, Jennie & Lily Rose Depp
+68; Man Made A Bar; Morgan Wallen Featuring Eric Church
+69; Different 'Round Here; Riley Green Featuring Luke Combs
+70; Skin And Bones; David Kushner
+71; Sneaky; 21 Savage
+72; I Can Feel It; Kane Brown
+73; 23; Chayce Beckham
+74; 02.02.99; That Mexican OT
+75; Mmhmm; BigXthaPlug
+76; Dangerous; 21 Savage, Lil Durk & Metro Boomin
+77; FE!N; Travis Scott Featuring Playboi Carti
+78; El Amor de Su Vida; Grupo Frontera & Grupo Firme
+79; Que Onda; Calle 24 x Chino Pacas x Fuerza Regida
+80; Pop Ur Sht; 21 Savage, Young Thug & Metro Boomin
+81; We Don't Fight Anymore; Carly Pearce Featuring Chris Stapleton
+82; Y Lloro; Junior H
+83; Perro Negro; Bad Bunny & Feid
+84; Wondering Why; The Red Clay Strays
+85; Standing Next To You; Jung Kook
+86; Coal; Dylan Gossett
+87; Northern Attitude; Noah Kahan With Hozier
+88; Segun Quien; Maluma & Carin Leon
+89; Oklahoma Smokeshow; Zach Bryan
+90; Mamaw's House; Thomas Rhett Featuring Morgan Wallen
+91; Can't Catch Me Now; Olivia Rodrigo
+92; My Eyes; Travis Scott
+93; Virginia Beach; Drake
+94; First Love; Oscar Ortiz X Edgardo Nunez
+95; Worth It; Offset & Don Toliver
+96; Sensational; Chris Brown Featuring Davido & Lojay
+97; When It Comes To You; Fridayy
+98; IDGAF; Tee Grizzley, Mariah The Scientist & Chris Brown
+99; Save Me The Trouble; Dan + Shay
+100; Red Sky; 21 Savage, Tommy Newport & Mikky Ekko
