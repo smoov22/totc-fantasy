@@ -1,100 +1,100 @@
-1; Lovin On Me; Jack Harlow
-2; Lose Control; Teddy Swims
+1; Like That; Future, Metro Boomin & Kendrick Lamar
+2; Texas Hold 'Em; Beyonce
 3; Beautiful Things; Benson Boone
-4; Cruel Summer; Taylor Swift
-5; Snooze; SZA
-6; I Remember Everything; Zach Bryan Featuring Kacey Musgraves
-7; Greedy; Tate McRae
-8; Fast Car; Luke Combs
-9; Agora Hills; Doja Cat
-10; Flowers; Miley Cyrus
-11; Stick Season; Noah Kahan
-12; Water; Tyla
-13; Hiss; Megan Thee Stallion
-14; Redrum; 21 Savage
-15; Last Night; Morgan Wallen
-16; Thinkin' Bout Me; Morgan Wallen
-17; Paint The Town Red; Doja Cat
-18; Is It Over Now? (Taylor's Version) [From The Vault]; Taylor Swift
-19; Never Lose Me; Flo Milli
-20; What Was I Made For?; Billie Eilish
-21; Yes, And?; Ariana Grande
-22; Houdini; Dua Lipa
-23; Selfish; Justin Timberlake
-24; Pretty Little Poison; Warren Zeiders
-25; La Diabla; Xavi
-26; Where The Wild Things Are; Luke Combs
-27; Everybody; Nicki Minaj Featuring Lil Uzi Vert
-28; Made For Me; Muni Long
-29; Vampire; Olivia Rodrigo
-30; The Painter; Cody Johnson
-31; White Horse; Chris Stapleton
-32; Rich Baby Daddy; Drake Featuring Sexyy Red & SZA
-33; On My Mama; Victoria Monet
-34; Exes; Tate McRae
-35; Wild Ones; Jessie Murph & Jelly Roll
-36; Feather; Sabrina Carpenter
-37; Dance The Night; Dua Lipa
-38; Bandit; Don Toliver
-39; Need A Favor; Jelly Roll
-40; Save Me; Jelly Roll With Lainey Wilson
-41; Fukumean; Gunna
-42; Fast Car; Tracy Chapman
-43; Lil Boo Thang; Paul Russell
-44; World On Fire; Nate Smith
-45; Good Good; Usher, Summer Walker & 21 Savage
-46; Truck Bed; HARDY
-47; First Person Shooter; Drake Featuring J. Cole
-48; Surround Sound; JID Featuring 21 Savage & Baby Tate
-49; Strangers; Kenya Grace
-50; My Love Mine All Mine; Mitski
-51; Spin You Around (1/24); Morgan Wallen
-52; Think U The Shit (Fart); Ice Spice
-53; Igual Que Un Angel; Kali Uchis & Peso Pluma
-54; FTCU; Nicki Minaj
-55; Burn It Down; Parker McCollum
-56; La Victima; Xavi
-57; One Of The Girls; The Weeknd, Jennie & Lily Rose Depp
-58; Nee-nah; 21 Savage, Travis Scott & Metro Boomin
-59; Murder On The Dancefloor; Sophie Ellis-Bextor
-60; Praise Jah In The Moonlight; YG Marley
-61; Act II: Date @ 8; 4Batz
-62; Turn The Lights Back On; Billy Joel
-63; Man Made A Bar; Morgan Wallen Featuring Eric Church
-64; One Call; Rich Amiri
-65; You Broke My Heart; Drake
-66; Different 'Round Here; Riley Green Featuring Luke Combs
-67; Harley Quinn; Fuerza Regida & Marshmello
-68; Get In With Me; BossMan Dlow
-69; FE!N; Travis Scott Featuring Playboi Carti
-70; Bellakeo; Peso Pluma & Anitta
-71; 500lbs; Lil Tecca
-72; IDGAF; Drake Featuring Yeat
-73; I Can Feel It; Kane Brown
-74; 23; Chayce Beckham
-75; Prove It; 21 Savage & Summer Walker
+4; Too Sweet; Hozier
+5; Lose Control; Teddy Swims
+6; II Most Wanted; Beyonce & Miley Cyrus
+7; Jolene; Beyonce
+8; Lovin On Me; Jack Harlow
+9; We Can't Be Friends (Wait For Your Love); Ariana Grande
+10; Type Shit; Future, Metro Boomin, Travis Scott & Playboi Carti
+11; Carnival; ¥$: Ye & Ty Dolla $ign Featuring Rich The Kid & Playboi Carti
+12; I Remember Everything; Zach Bryan Featuring Kacey Musgraves
+13; Greedy; Tate McRae
+14; Cruel Summer; Taylor Swift
+15; Stick Season; Noah Kahan
+16; Levii's Jeans; Beyonce & Post Malone
+17; Snooze; SZA
+18; Fast Car; Luke Combs
+19; Saturn; SZA
+20; Get It Sexyy; Sexyy Red
+21; Agora Hills; Doja Cat
+22; Water; Tyla
+23; I Like The Way You Kiss Me; Artemas
+24; End Of Beginning; Djo
+25; Cinderella; Future, Metro Boomin & Travis Scott
+26; Bodyguard; Beyonce
+27; Blackbiird; Beyonce, Tanner Adell, Brittney Spencer, Tiera Kennedy & Reyna Roberts
+28; Redrum; 21 Savage
+29; Never Lose Me; Flo Milli
+30; Ameriican Requiem; Beyonce
+31; Spaghettii; Beyonce, Linda Martell & Shaboozey
+32; Feather; Sabrina Carpenter
+33; Man Made A Bar; Morgan Wallen Featuring Eric Church
+34; Whatever She Wants; Bryson Tiller
+35; Made For Me; Muni Long
+36; Act II: Date @ 8; 4Batz Featuring Drake
+37; Daughter; Beyonce
+38; 16 Carriages; Beyonce
+39; Ya Ya; Beyonce
+40; Young Metro; Future, Metro Boomin & The Weeknd
+41; Obsessed; Olivia Rodrigo
+42; Protector; Beyonce & Rumi Carter
+43; We Don't Trust You; Future & Metro Boomin
+44; Tyrant; Beyonce & Dolly Parton
+45; Houdini; Dua Lipa
+46; Where The Wild Things Are; Luke Combs
+47; Burn It Down; Parker McCollum
+48; Selfish; Justin Timberlake
+49; 23; Chayce Beckham
+50; Paint The Town Red; Doja Cat
+51; Riiverdance; Beyonce
+52; Alliigator Tears; Beyonce
+53; FE!N; Travis Scott Featuring Playboi Carti
+54; My Rose; Beyonce
+55; Slow It Down; Benson Boone
+56; Yeah Glo!; GloRilla
+57; Austin; Dasha
+58; Wild Ones; Jessie Murph & Jelly Roll
+59; Just For Fun; Beyonce & Willie Jones
+60; II Hands II Heaven; Beyonce
+61; Sweet * Honey * Buckiin'; Beyonce & Shaboozey
+62; Enough (Miami); Cardi B
+63; Flamenco; Beyonce
+64; Wildflowers And Wild Horses; Lainey Wilson
+65; Desert Eagle; Beyonce
+66; Get In With Me; BossMan Dlow
+67; Exes; Tate McRae
+68; Scared To Start; Michael Marcagi
+69; La Diabla; Xavi
+70; Oh Louisiana; Beyonce
+71; Training Season; Dua Lipa
+72; Ice Attack; Future & Metro Boomin
+73; Where It Ends; Bailey Zimmerman
+74; Gata Only; FloyyMenor X Cris Mj
+75; Everybody; Nicki Minaj Featuring Lil Uzi Vert
 76; Soak City; 310babii
-77; Monaco; Bad Bunny
-78; Mamaw's House; Thomas Rhett Featuring Morgan Wallen
-79; We Don't Fight Anymore; Carly Pearce Featuring Chris Stapleton
-80; Home; Good Neighbours
-81; Standing Next To You; Jung Kook
-82; Perro Negro; Bad Bunny & Feid
-83; Mmhmm; BigXthaPlug
-84; Oklahoma Smokeshow; Zach Bryan
-85; My Eyes; Travis Scott
-86; Coal; Dylan Gossett
-87; A Cold Sunday; Lil Yachty
-88; All Of Me; 21 Savage
-89; N.H.I.E.; 21 Savage & Doja Cat
-90; Should've Wore A Bonnet; 21 Savage & Brent Faiyaz
-91; Que Onda; Calle 24 x Chino Pacas x Fuerza Regida
-92; Wondering Why; The Red Clay Strays
-93; Y Lloro; Junior H
-94; Sensational; Chris Brown Featuring Davido & Lojay
-95; Wildflowers And Wild Horses; Lainey Wilson
-96; Worth It; Offset & Don Toliver
-97; Northern Attitude; Noah Kahan With Hozier
-98; Scared To Start; Michael Marcagi
-99; First Love; Oscar Ortiz X Edgardo Nunez
-100; Where It Ends; Bailey Zimmerman
+77; Mmhmm; BigXthaPlug
+78; Slimed In; Future & Metro Boomin
+79; Mamaw's House; Thomas Rhett Featuring Morgan Wallen
+80; Praise Jah In The Moonlight; YG Marley
+81; I Luv It; Camila Cabello & Playboi Carti
+82; The Boy Is Mine; Ariana Grande
+83; Corazon de Piedra; Xavi
+84; Bandit; Don Toliver
+85; One Of The Girls; The Weeknd, Jennie & Lily Rose Depp
+86; Yes, And?; Ariana Grande
+87; Amen; Beyonce
+88; FTCU; Nicki Minaj
+89; Wind Up Missin' You; Tucker Wetmore
+90; Spin You Around (1/24); Morgan Wallen
+91; Fried (She A Vibe); Future & Metro Boomin
+92; Claustrophobic; Future & Metro Boomin
+93; Magic Don Juan (Princess Diana); Future & Metro Boomin
+94; Tu Name; Fuerza Regida
+95; Outskirts; Sam Hunt
+96; Everyday Hustle; Future, Metro Boomin & Rick Ross
+97; Back Then Right Now; Tyler Hubbard
+98; La People II; Peso Pluma, Tito Double P & Joel de La P
+99; Home; Good Neighbours
+100; Tucson Too Late; Jordan Davis

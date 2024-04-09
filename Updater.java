@@ -171,7 +171,7 @@ public class Updater {
             System.out.println("IO exception");
         }
         players = playerPut(values, players, Players._baconpancake_, Artists.ARIANAGRANDE, Artists.DUALIPA, Artists.LILNASX, Artists.TAYLORSWIFT, Artists.DRAKE);
-players = playerPut(values, players, Players._huggies_, Artists.TAYLORSWIFT, Artists.JACKHARLOW, Artists.ARIANAGRANDE, Artists.TRAVISSCOTT, Artists.MORGANWALLEN);
+players = playerPut(values, players, Players.lapis_lazy1, Artists.TAYLORSWIFT, Artists.JACKHARLOW, Artists.ARIANAGRANDE, Artists.TRAVISSCOTT, Artists.MORGANWALLEN);
 players = playerPut(values, players, Players.anthonymemedrano, Artists.XAVI, Artists.ARIANAGRANDE, Artists.MORGANWALLEN, Artists.FLOMILLI, Artists.SAVAGE);
 players = playerPut(values, players, Players.arandomguyx, Artists.KALIUCHIS, Artists.PESOPLUMA, Artists.FRANKOCEAN, Artists.AESPA, Artists.CHRISSTAPLETON);
 players = playerPut(values, players, Players.ayenhatestypos, Artists.DRAKE, Artists.TAYLORSWIFT, Artists.JACKHARLOW, Artists.ATEEZ, Artists.ARIANAGRANDE);
