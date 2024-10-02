@@ -171,7 +171,7 @@ public class Updater {
             System.out.println("IO exception");
         }
         players = playerPut(values, players, Players._baconpancake_, Artists.ARIANAGRANDE, Artists.DUALIPA, Artists.LILNASX, Artists.TAYLORSWIFT, Artists.DRAKE);
-players = playerPut(values, players, Players.lapis_lazy1, Artists.TAYLORSWIFT, Artists.JACKHARLOW, Artists.ARIANAGRANDE, Artists.TRAVISSCOTT, Artists.MORGANWALLEN);
+players = playerPut(values, players, Players.huggies___, Artists.TAYLORSWIFT, Artists.JACKHARLOW, Artists.ARIANAGRANDE, Artists.TRAVISSCOTT, Artists.MORGANWALLEN);
 players = playerPut(values, players, Players.anthonymemedrano, Artists.XAVI, Artists.ARIANAGRANDE, Artists.MORGANWALLEN, Artists.FLOMILLI, Artists.SAVAGE);
 players = playerPut(values, players, Players.arandomguyx, Artists.KALIUCHIS, Artists.PESOPLUMA, Artists.FRANKOCEAN, Artists.AESPA, Artists.CHRISSTAPLETON);
 players = playerPut(values, players, Players.ayenhatestypos, Artists.DRAKE, Artists.TAYLORSWIFT, Artists.JACKHARLOW, Artists.ATEEZ, Artists.ARIANAGRANDE);
@@ -199,7 +199,7 @@ players = playerPut(values, players, Players.theocdave, Artists.PESOPLUMA, Artis
 players = playerPut(values, players, Players.tokidokii, Artists.TAYLORSWIFT, Artists.THEWEEKND, Artists.NOAHKAHAN, Artists.DUALIPA, Artists.NEWJEANS);
 players = playerPut(values, players, Players.trex821, Artists.SIA, Artists.RIHANNA, Artists.CARDIB, Artists.TAYLORSWIFT, Artists.SZA);
 players = playerPut(values, players, Players.turnofthetv, Artists.TEEGRIZZLY, Artists.ZACHBRYAN, Artists.NOAHKAHAN, Artists.GRUPOFRONTERA, Artists.RILEYGREEN);
-players = playerPut(values, players, Players.canisservum, Artists.PLAYBOICARTI, Artists.FRANKOCEAN, Artists.NETTSPEND, Artists.TVGIRL, Artists.PHOEBEBRIDGERS);
+players = playerPut(values, players, Players.pdctsha, Artists.PLAYBOICARTI, Artists.FRANKOCEAN, Artists.NETTSPEND, Artists.TVGIRL, Artists.PHOEBEBRIDGERS);
 players = playerPut(values, players, Players.wanegbt, Artists.KATYPERRY, Artists.JELLYROLL, Artists.KALIUCHIS, Artists.FLOMILLI, Artists.SZA);
 players = playerPut(values, players, Players.xylotovisions, Artists.COLDPLAY, Artists.THEWEEKND, Artists.NOAHKAHAN, Artists.SAVAGE, Artists.XAVI);
         /**

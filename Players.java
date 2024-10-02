@@ -6,7 +6,7 @@
  */
 public enum Players {
     _baconpancake_,
-    lapis_lazy1,
+    huggies___,
     anthonymemedrano,
     arandomguyx,
     ayenhatestypos,
@@ -34,7 +34,7 @@ public enum Players {
     tokidokii,
     trex821,
     turnofthetv,
-    canisservum,
+    pdctsha,
     wanegbt,
     xylotovisions;
 
