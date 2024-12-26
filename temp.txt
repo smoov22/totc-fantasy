@@ -1,100 +1,100 @@
 1; A Bar Song (Tipsy); Shaboozey
-2; I Had Some Help; Post Malone Featuring Morgan Wallen
-3; Espresso; Sabrina Carpenter
-4; Good Luck, Babe!; Chappell Roan
-5; Die With A Smile; Lady Gaga & Bruno Mars
-6; Birds Of A Feather; Billie Eilish
-7; Lose Control; Teddy Swims
-8; Please Please Please; Sabrina Carpenter
-9; Taste; Sabrina Carpenter
-10; Not Like Us; Kendrick Lamar
-11; Beautiful Things; Benson Boone
-12; Too Sweet; Hozier
-13; Million Dollar Baby; Tommy Richman
-14; Ain't No Love In Oklahoma; Luke Combs
-15; Hot To Go!; Chappell Roan
-16; Lies Lies Lies; Morgan Wallen
-17; Miles On It; Marshmello & Kane Brown
-18; Cowgirls; Morgan Wallen Featuring ERNEST
-19; Austin; Dasha
-20; Bed Chem; Sabrina Carpenter
-21; Teflon Don; Future
-22; I Am Not Okay; Jelly Roll
-23; Too Fast; Future
-24; Pink Skies; Zach Bryan
-25; Lil Demon; Future
-26; Ski; Future
-27; Pink Pony Club; Chappell Roan
-28; The Door; Teddy Swims
-29; Plutoski; Future
-30; Who; Jimin
-31; Kehlani; Jordan Adetunji
-32; It's Ok I'm Ok; Tate McRae
-33; TGIF; GloRilla
-34; I Can Do It With A Broken Heart; Taylor Swift
-35; Pour Me A Drink; Post Malone Featuring Blake Shelton
-36; Saturn; SZA
-37; 28; Zach Bryan
-38; Dancing In The Flames; The Weeknd
-39; Like That; Future, Metro Boomin & Kendrick Lamar
-40; Stargazing; Myles Smith
-41; You Look Like You Love Me; Ella Langley Featuring Riley Green
-42; Ready To Cook Up; Future
-43; Si Antes Te Hubiera Conocido; Karol G
-44; Guy For That; Post Malone Featuring Luke Combs
-45; Wildflower; Billie Eilish
-46; Ocean; Future
-47; Sailor Song; Gigi Perez
-48; Stick Season; Noah Kahan
-49; Slow It Down; Benson Boone
-50; High Road; Koe Wetzel & Jessie Murph
-51; All Red; Playboi Carti
-52; The Emptiness Machine; Linkin Park
-53; 360; Charli xcx
-54; La Patrulla; Peso Pluma & Neton Vega
-55; Good Graces; Sabrina Carpenter
-56; Big Dawgs; Hanumankind X Kalmi
-57; South Of France; Future
-58; I Love You, I'm Sorry; Gracie Abrams
-59; Brazzier; Future
-60; Mamushi; Megan Thee Stallion Featuring Yuki Chiba
-61; Press The Button; Future
-62; Red Wine Supernova; Chappell Roan
-63; Surfing A Tsunami; Future
-64; Guess; Charli xcx Featuring Billie Eilish
-65; Help Me; Real Boston Richey
-66; Houdini; Eminem
-67; One Of Wun; Gunna
-68; MJ; Future
-69; Whiskey Whiskey; Moneybagg Yo Featuring Morgan Wallen
-70; Oath; Future
-71; Nights Like This; The Kid LAROI
-72; Casual; Chappell Roan
-73; Love You, Miss You, Mean It; Luke Bryan
-74; Juno; Sabrina Carpenter
-75; Think I'm In Love With You; Chris Stapleton
-76; Burning Down; Alex Warren
-77; Wind Up Missin' You; Tucker Wetmore
-78; Lonely Road; mgk & Jelly Roll
-79; Una Velita; Bad Bunny
-80; Aye Say Gang; Future
-81; Told My; Future
-82; Nel; Fuerza Regida
-83; Lost My Dog; Future
-84; Am I Okay?; Megan Moroney
-85; Made My Hoe Faint; Future
-86; Hollon; GloRilla
-87; Chevrolet; Dustin Lynch Featuring Jelly Roll
-88; Dos Dias; Tito Double P & Peso Pluma
+2; Die With A Smile; Lady Gaga & Bruno Mars
+3; Birds Of A Feather; Billie Eilish
+4; Lose Control; Teddy Swims
+5; Espresso; Sabrina Carpenter
+6; That's So True; Gracie Abrams
+7; I Had Some Help; Post Malone Featuring Morgan Wallen
+8; Taste; Sabrina Carpenter
+9; Beautiful Things; Benson Boone
+10; Love Somebody; Morgan Wallen
+11; Sticky; Tyler, The Creator Featuring GloRilla, Sexyy Red & Lil Wayne
+12; Good Luck, Babe!; Chappell Roan
+13; Too Sweet; Hozier
+14; Timeless; The Weeknd & Playboi Carti
+15; APT.; ROSE & Bruno Mars
+16; All I Want For Christmas Is You; Mariah Carey
+17; Whatchu Kno About Me; GloRilla & Sexyy Red
+18; Please Please Please; Sabrina Carpenter
+19; Not Like Us; Kendrick Lamar
+20; Stargazing; Myles Smith
+21; I Am Not Okay; Jelly Roll
+22; No One Noticed; The Marias
+23; Rockin' Around The Christmas Tree; Brenda Lee
+24; Last Christmas; Wham!
+25; Sailor Song; Gigi Perez
+26; Wildflower; Billie Eilish
+27; Lies Lies Lies; Morgan Wallen
+28; Bed Chem; Sabrina Carpenter
+29; Hot To Go!; Chappell Roan
+30; Million Dollar Baby; Tommy Richman
+31; Tu Boda; Oscar Maydon & Fuerza Regida
+32; I Love You, I'm Sorry; Gracie Abrams
+33; The Door; Teddy Swims
+34; Que Pasaria...; Rauw Alejandro & Bad Bunny
+35; Like Him; Tyler, The Creator Featuring Lola Young
+36; High Road; Koe Wetzel & Jessie Murph
+37; St. Chroma; Tyler, The Creator Featuring Daniel Caesar
+38; Ain't No Love In Oklahoma; Luke Combs
+39; Cowgirls; Morgan Wallen Featuring ERNEST
+40; Miles On It; Marshmello & Kane Brown
+41; 2 Hands; Tate McRae
+42; TGIF; GloRilla
+43; Wind Up Missin' You; Tucker Wetmore
+44; It's Ok I'm Ok; Tate McRae
+45; Who; Jimin
+46; You Look Like You Love Me; Ella Langley Featuring Riley Green
+47; It's The Most Wonderful Time Of The Year; Andy Williams
+48; A Holly Jolly Christmas; Burl Ives
+49; I Can Do It With A Broken Heart; Taylor Swift
+50; Beautiful As You; Thomas Rhett
+51; High Road; Zach Bryan
+52; Pink Pony Club; Chappell Roan
+53; Running Wild; JIN
+54; Help Me; Real Boston Richey
+55; Dancing In The Flames; The Weeknd
+56; Insecurities; Lil Baby
+57; Darling, I; Tyler, The Creator Featuring Teezo Touchdown
+58; I Never Lie; Zach Top
+59; Disease; Lady Gaga
+60; Khe?; Rauw Alejandro & Romeo Santos
+61; Juno; Sabrina Carpenter
+62; Liar; Jelly Roll
+63; 25; Rod Wave
+64; Heart Of A Woman; Summer Walker
+65; I'm Gonna Love You; Cody Johnson & Carrie Underwood
+66; Residuals; Chris Brown
+67; Dos Dias; Tito Double P & Peso Pluma
+68; AGATS2 (Insecure); Juice WRLD & Nicki Minaj
+69; Tu Con El; Rauw Alejandro
+70; Rah Tah Tah; Tyler, The Creator
+71; Good News; Shaboozey
+72; I Luv Her; GloRilla & T-Pain
+73; Close To You; Gracie Abrams
+74; The Emptiness Machine; Linkin Park
+75; Thought I Was Dead; Tyler, The Creator Featuring ScHoolboy Q & Santigold
+76; Bad Dreams; Teddy Swims
+77; Think I'm In Love With You; Chris Stapleton
+78; Shake Dat Ass (Twerk Song); BossMan Dlow
+79; Diet Pepsi; Addison Rae
+80; 4x4xU; Lainey Wilson
+81; Guy For That; Post Malone Featuring Luke Combs
+82; Se Fue; Rauw Alejandro & Laura Pausini
+83; No Pole; Don Toliver
+84; Noid; Tyler, The Creator
+85; Him All Along; Gunna
+86; Am I Okay?; Megan Moroney
+87; Good Graces; Sabrina Carpenter
+88; Revolu; Rauw Alejandro & Feid
 89; Apple; Charli xcx
-90; Beautiful As You; Thomas Rhett
-91; Shake Dat Ass (Twerk Song); BossMan Dlow
-92; Belong Together; Mark Ambor
-93; Residuals; Chris Brown
-94; Lunch; Billie Eilish
-95; Prove It; 21 Savage & Summer Walker
-96; Diet Pepsi; Addison Rae
-97; Coincidence; Sabrina Carpenter
-98; Passport Junkie; Rod Wave
-99; Circadian Rhythm; Drake
-100; Sharpest Tool; Sabrina Carpenter
+90; La Patrulla; Peso Pluma & Neton Vega
+91; El Lokeron; Tito Double P
+92; 28; Zach Bryan
+93; New Drop; Don Toliver
+94; Lonely Road; mgk & Jelly Roll
+95; Wondering Why; The Red Clay Strays
+96; Dejame Entrar; Rauw Alejandro
+97; Neon Moon; Brooks & Dunn With Morgan Wallen
+98; Brokey; Latto
+99; Balloon; Tyler, The Creator Featuring Doechii
+100; On One Tonight; Gunna
